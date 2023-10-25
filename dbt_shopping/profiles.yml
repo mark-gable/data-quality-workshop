@@ -1,0 +1,6 @@
+dbt_shopping:
+  outputs:
+    dev:
+      type: duckdb
+      path: '../data/shopping.db'
+  target: dev
