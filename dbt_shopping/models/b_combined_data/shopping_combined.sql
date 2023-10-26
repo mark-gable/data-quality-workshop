@@ -17,13 +17,13 @@ SELECT
     customers.location,
     reviews.review_rating
 FROM
-    purchase_table
+    {{ref('purchase_table')}}
 LEFT JOIN
-    purchase_customer_mapping ON
+    {{ref('purchase_customer_mapping')}} ON
     purchase_table.purchase_id = purchase_customer_mapping.purchase_id
 LEFT JOIN
-    customers ON
+    {{ref('customers')}} ON
     purchase_customer_mapping.customer_id = customers.customer_id
 LEFT JOIN
-    reviews ON
+    {{ref('reviews')}} ON
     purchase_table.purchase_id = reviews.purchase_id

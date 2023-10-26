@@ -1,4 +1,4 @@
-SELECT
+SELECT DISTINCT
     purchase_id,
     review_rating
 FROM

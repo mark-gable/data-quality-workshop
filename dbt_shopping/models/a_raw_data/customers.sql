@@ -1,4 +1,4 @@
-SELECT
+SELECT DISTINCT
     customer_id,
     age,
     gender,
