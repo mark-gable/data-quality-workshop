@@ -1,7 +1,7 @@
 Purchase ID,Purchase Date,Item Purchased,Category,Purchase Amount (USD),Size,Color,Season,Shipping Type,Discount Applied,Promo Code Used,Payment Method
 0a533c04-a776-43ee-a9ca-fa88cb8efc4b,2023-06-12 11:02:54.882140399+00:00,Blouse,Clothing,53,L,Gray,Winter,Express,Yes,Yes,Venmo
 887289a8-cc7a-482e-9125-c4ff12383a4f,2023-04-08 18:09:15.849264337+00:00,Sweater,Clothing,64,L,Maroon,Winter,Express,Yes,Yes,Cash
-2ecd0c42-9f49-4e55-8826-a77cc88ae94e,2023-02-19 21:02:14.228772360+00:00,Jeans,Clothing,73,S,Maroon,Spring,Free Shipping,Yes,Yes,Credit Card
+2ecd0c42-9f49-4e55-8826-a77cc88ae94e,2024-02-19 21:02:14.228772360+00:00,Jeans,Clothing,73,S,Maroon,Spring,Free Shipping,Yes,Yes,Credit Card
 e14db72b-d350-4863-8f44-5ffad0101964,2023-10-23 22:45:04.647661406+00:00,Sandals,Footwear,90,M,Maroon,Spring,Next Day Air,Yes,Yes,PayPal
 ad195289-8cd5-4913-bfdc-d16d5c916a69,2023-11-12 13:46:43.413315841+00:00,Blouse,Clothing,49,M,Turquoise,Spring,Free Shipping,Yes,Yes,PayPal
 3debe19a-84d2-40bb-a1f2-318be9c2fd7c,2023-09-23 16:57:02.511435398+00:00,Sneakers,Footwear,20,M,White,Summer,Standard,Yes,Yes,Venmo
@@ -57,7 +57,7 @@ d05db3b7-e10c-4edf-9d86-7afe97c8dc76,2023-01-27 10:15:52.214781206+00:00,Coat,Ou
 2e4cfa80-1d06-4ac4-8596-dc4f5a09feac,2023-08-17 12:49:36.874984638+00:00,Jacket,Outerwear,28,M,Lavender,Winter,2-Day Shipping,Yes,Yes,Credit Card
 a2e18847-551b-4b16-ab0d-f56ecb409aca,2023-07-09 09:07:06.457181788+00:00,Backpack,Accessories,73,XL,Brown,Summer,Store Pickup,Yes,Yes,Credit Card
 7ed12234-c4c1-49f9-a0d9-88086dcbef3d,2023-12-13 00:23:39.745193396+00:00,Coat,Outerwear,64,M,White,Summer,Store Pickup,Yes,Yes,Debit Card
-fbfecf3c-f52b-46d9-858c-bb80f9aeac35,2023-02-22 01:02:52.548257030+00:00,Hoodie,Clothing,54,M,Charcoal,Summer,Free Shipping,Yes,Yes,Venmo
+fbfecf3c-f52b-46d9-858c-bb80f9aeac35,2024-02-19 01:02:52.548257030+00:00,Hoodie,Clothing,5400000,M,Charcoal,Summer,Free Shipping,Yes,Yes,Venmo
 a50ac003-55ac-4dc5-9749-a28b7e9c6afb,2023-08-03 20:09:04.234196414+00:00,Belt,Accessories,79,L,Yellow,Spring,Standard,Yes,Yes,Debit Card
 ce5d2a1b-474d-40bc-9fb2-2394e38ac55b,2023-08-23 00:49:18.583258019+00:00,Sweater,Clothing,37,L,Brown,Summer,Express,Yes,Yes,Cash
 1cd2b96c-7e5c-4eb2-9cd9-37113220875c,2023-07-13 09:19:58.444672991+00:00,Scarf,Accessories,68,M,Orange,Winter,Store Pickup,Yes,Yes,Credit Card
@@ -147,11 +147,11 @@ bf022143-1c48-489a-8515-34cc0159c034,2023-02-04 22:49:44.150534733+00:00,Gloves,
 de26651c-97fe-4355-a01b-cf2e29740c99,2023-11-29 02:41:21.107179097+00:00,Jewelry,Accessories,95,M,Teal,Fall,Standard,Yes,Yes,Debit Card
 e2fddece-1344-4271-b7d9-321ef549049b,2023-04-05 03:02:00.193808188+00:00,Skirt,Clothing,30,S,Black,Fall,Standard,Yes,Yes,Venmo
 b7fd02b6-3c60-40a3-a1ca-fd711ce74087,2023-12-24 13:18:33.029533985+00:00,Shoes,Footwear,64,M,Purple,Summer,2-Day Shipping,Yes,Yes,Bank Transfer
-63c15c38-6c1b-450c-b74c-a13d0c94ea27,2023-02-21 16:23:25.931804983+00:00,Gloves,Accessories,90,M,Gray,Fall,Store Pickup,Yes,Yes,Debit Card
+63c15c38-6c1b-450c-b74c-a13d0c94ea27,2024-02-19 16:23:25.931804983+00:00,Gloves,Accessories,90,M,Gray,Fall,Store Pickup,Yes,Yes,Debit Card
 b95a3f47-d59f-45a6-8f59-8bf1ff5ce427,2023-11-25 19:33:11.685349969+00:00,Pants,Clothing,76,M,White,Summer,Free Shipping,Yes,Yes,PayPal
 d6743f81-4ea9-4835-b3ad-13c788afd50a,2023-05-10 10:58:22.725724013+00:00,Boots,Footwear,96,L,Cyan,Fall,Standard,Yes,Yes,Debit Card
 7017acf2-3e14-4c0e-916e-132e7d129a52,2023-03-29 22:49:14.827965039+00:00,Sunglasses,Accessories,47,L,Turquoise,Fall,Next Day Air,Yes,Yes,Venmo
-b8de074b-7ae4-471a-960a-e2894461a0c6,2023-02-21 21:04:19.774074117+00:00,Shirt,Clothing,85,S,Brown,Summer,Express,Yes,Yes,Venmo
+b8de074b-7ae4-471a-960a-e2894461a0c6,2024-02-19 21:04:19.774074117+00:00,Shirt,Clothing,85,S,Brown,Summer,Express,Yes,Yes,Venmo
 553ea42a-34dc-42cd-b892-987e24773b18,2023-11-15 05:33:46.209435494+00:00,Hoodie,Clothing,55,M,Maroon,Winter,Standard,Yes,Yes,Debit Card
 1870c32c-48f1-4443-ba74-4d983b7a4611,2023-09-28 17:14:24.178352624+00:00,Dress,Clothing,98,M,Charcoal,Fall,Next Day Air,Yes,Yes,Venmo
 50061ef5-ce76-4ce6-bb00-f32e4674e0b5,2023-10-22 08:34:00.790759640+00:00,Socks,Clothing,77,S,Olive,Spring,Free Shipping,Yes,Yes,Bank Transfer
@@ -185,7 +185,7 @@ ace3ef34-792a-46a1-9f24-9c75f6e07d9d,2023-11-12 06:31:04.283462928+00:00,Boots,F
 6ca66903-2edb-4809-8ccb-2a36e6129959,2023-12-02 16:36:17.658506800+00:00,Skirt,Clothing,29,XL,Beige,Spring,2-Day Shipping,Yes,Yes,Credit Card
 a3fe1c2c-bc06-4b5e-ba28-3a42b1efb9a0,2023-09-16 14:08:44.682577094+00:00,Sneakers,Footwear,33,L,Cyan,Spring,Express,Yes,Yes,Cash
 3be8ad85-79be-4e53-b698-09dbccc7ac74,2023-04-24 12:55:52.272632614+00:00,T-shirt,Clothing,32,XL,Silver,Summer,Store Pickup,Yes,Yes,Bank Transfer
-455fad17-5048-475b-8803-1f0520819935,2023-02-26 12:55:38.594084523+00:00,Backpack,Accessories,56,S,Lavender,Summer,Standard,Yes,Yes,Debit Card
+455fad17-5048-475b-8803-1f0520819935,2024-02-19 12:55:38.594084523+00:00,Backpack,Accessories,56,S,Lavender,Summer,Standard,Yes,Yes,Debit Card
 131c933e-5bb9-4395-9a4c-582632ceca36,2023-04-19 08:13:52.413894599+00:00,Shoes,Footwear,94,S,Purple,Spring,Store Pickup,Yes,Yes,Bank Transfer
 68a55d4c-c4a6-461e-8094-b7d41db34846,2023-04-27 05:48:19.771875224+00:00,Hoodie,Clothing,53,M,Pink,Spring,Express,Yes,Yes,Bank Transfer
 2602f360-cb87-439a-b2de-6a479cb31d12,2023-07-25 05:31:46.317800218+00:00,Blouse,Clothing,82,M,Maroon,Fall,Next Day Air,Yes,Yes,Credit Card
@@ -250,12 +250,12 @@ f45314a0-d3d9-463a-a818-29542208ea7c,2023-02-15 03:26:02.363245953+00:00,Pants,C
 e3bcacfb-e1f5-4ea3-8ce1-6da045aaaf7c,2023-03-25 13:21:09.152365282+00:00,Belt,Accessories,100,M,Blue,Winter,Express,Yes,Yes,PayPal
 c13e0122-30b1-4e5e-a5f0-c72c8a9d355a,2023-10-23 00:11:14.355930610+00:00,Handbag,Accessories,47,S,Teal,Fall,Standard,Yes,Yes,Credit Card
 8277f601-fb89-42c2-aac3-89d0d95c991e,2023-12-20 05:33:41.505229897+00:00,Skirt,Clothing,25,L,Black,Fall,Express,Yes,Yes,Bank Transfer
-87a5da6b-a0d6-4292-9d0a-e582b42cda99,2023-02-24 12:52:08.930229729+00:00,Handbag,Accessories,51,XL,Gold,Winter,Standard,Yes,Yes,PayPal
+87a5da6b-a0d6-4292-9d0a-e582b42cda99,2024-02-19 12:52:08.930229729+00:00,Handbag,Accessories,51,XL,Gold,Winter,Standard,Yes,Yes,PayPal
 1c75a226-7dd9-4622-8d43-365190b12a0f,2023-12-25 21:46:23.724372167+00:00,Shorts,Clothing,41,M,Violet,Summer,Free Shipping,Yes,Yes,Venmo
 5d0f7ae3-764b-4001-9250-1eee1ad41109,2023-10-13 01:32:17.147869325+00:00,Boots,Footwear,73,L,Cyan,Winter,2-Day Shipping,Yes,Yes,Bank Transfer
 b3affb56-80d2-4623-b7a2-ae0a624f4df4,2023-11-10 02:52:14.262535190+00:00,Sunglasses,Accessories,42,M,White,Winter,Store Pickup,Yes,Yes,PayPal
 a95a649d-0421-479b-9483-6b5097ff7c92,2023-10-23 12:39:50.383219665+00:00,Scarf,Accessories,20,M,Charcoal,Spring,Free Shipping,Yes,Yes,Debit Card
-4a1a8bd5-244a-4955-8511-6cd8794a621e,2023-02-24 07:47:19.101444124+00:00,Jewelry,Accessories,30,XL,Violet,Spring,Express,Yes,Yes,Credit Card
+4a1a8bd5-244a-4955-8511-6cd8794a621e,2024-02-19 07:47:19.101444124+00:00,Jewelry,Accessories,30,XL,Violet,Spring,Express,Yes,Yes,Credit Card
 d0b89db5-0d98-4ed9-8b02-d6b441061ed0,2023-05-06 17:02:47.846145825+00:00,Handbag,Accessories,53,M,Red,Summer,Express,Yes,Yes,Credit Card
 0ff27c8a-2703-46d7-9731-01e699e385d5,2023-03-05 01:17:08.629966593+00:00,Gloves,Accessories,74,S,Lavender,Spring,Express,Yes,Yes,Cash
 31fc261a-d974-4c4a-8956-56535d175a4e,2023-04-06 10:01:56.521407884+00:00,Jeans,Clothing,57,M,Gold,Fall,Standard,Yes,Yes,Debit Card
@@ -276,7 +276,7 @@ e4283650-ce49-4a6e-8522-714575ceb332,2023-11-29 21:12:06.909954681+00:00,Coat,Ou
 e1d73161-1273-452c-8e8d-44b63bbeb968,2023-07-12 20:17:17.946029664+00:00,Jewelry,Accessories,32,M,Indigo,Spring,Express,Yes,Yes,Cash
 9ee7dede-5829-4c23-8401-4bcd7a483a90,2023-01-20 05:26:06.985255457+00:00,Backpack,Accessories,85,XL,Lavender,Winter,Express,Yes,Yes,Credit Card
 9fb15565-a4f9-4bb5-af8a-2396ade880bf,2023-09-12 04:56:40.842689624+00:00,Skirt,Clothing,30,XL,Turquoise,Fall,Express,Yes,Yes,Bank Transfer
-1282af9c-85c3-4908-9bcb-f2c31ae527da,2023-02-25 13:59:46.685010833+00:00,Shirt,Clothing,29,M,Green,Winter,Store Pickup,Yes,Yes,Bank Transfer
+1282af9c-85c3-4908-9bcb-f2c31ae527da,2024-02-19 13:59:46.685010833+00:00,Shirt,Clothing,29,M,Green,Winter,Store Pickup,Yes,Yes,Bank Transfer
 58eaa9c4-efc7-4d30-a111-a04a0d94294f,2023-06-28 16:35:07.055265822+00:00,Sweater,Clothing,95,M,Orange,Spring,Express,Yes,Yes,Debit Card
 942257bb-b7ef-46a2-892f-1bf91042ef6c,2023-12-20 19:31:11.614652189+00:00,Sneakers,Footwear,69,L,Turquoise,Summer,Standard,Yes,Yes,Bank Transfer
 9fdcf15b-4fde-40d2-8bb6-2e2354e4885e,2023-03-12 07:37:43.208798180+00:00,Sandals,Footwear,69,S,Cyan,Fall,2-Day Shipping,Yes,Yes,Cash
@@ -374,7 +374,7 @@ b3127663-4087-4025-b836-c14fdb7ee9fc,2023-11-24 16:58:15.411072007+00:00,Sneaker
 6cef35f7-22ee-49b0-a2cb-0c30ec702448,2023-02-16 20:52:53.291867757+00:00,Sweater,Clothing,85,L,Orange,Summer,Standard,Yes,Yes,Debit Card
 3d93c77e-198c-43c1-be35-279351a98f20,2023-07-06 09:31:20.149004305+00:00,Coat,Outerwear,27,L,White,Summer,Express,Yes,Yes,Venmo
 2e850ce0-24b9-4a16-9b59-dc87d0a4cab1,2023-04-01 03:13:29.444481602+00:00,Jewelry,Accessories,78,S,Purple,Spring,Store Pickup,Yes,Yes,Bank Transfer
-2f8bb233-ede9-4530-8efc-85aec1e15540,2023-02-28 21:53:06.894288689+00:00,Sunglasses,Accessories,32,M,Olive,Summer,Standard,Yes,Yes,Debit Card
+2f8bb233-ede9-4530-8efc-85aec1e15540,2024-02-19 21:53:06.894288689+00:00,Sunglasses,Accessories,32,M,Olive,Summer,Standard,Yes,Yes,Debit Card
 f390697e-ed33-4740-91ec-11d625184d58,2023-09-24 21:35:41.893489777+00:00,Shoes,Footwear,51,S,Gray,Fall,Express,Yes,Yes,Venmo
 e28f7d1e-f1aa-4e7a-a0d7-7ade6a3840ae,2023-06-06 12:24:07.994465931+00:00,Scarf,Accessories,32,M,Silver,Spring,Standard,Yes,Yes,Credit Card
 7c618ba9-0906-450f-bfff-dcb605e397cd,2023-04-25 14:49:39.352520757+00:00,Dress,Clothing,62,L,Orange,Winter,Next Day Air,Yes,Yes,Credit Card
@@ -455,7 +455,7 @@ d39ad5f9-76d9-4399-b55c-444dd1aff48f,2023-07-30 12:14:56.660585453+00:00,Pants,C
 b5634985-f0d3-48bb-ac09-e70ec8355bc6,2023-11-29 00:00:42.301321002+00:00,Jewelry,Accessories,56,XL,Peach,Winter,Next Day Air,Yes,Yes,Credit Card
 85855f2b-a6ce-4a37-8dbd-a00d233d1641,2023-01-19 09:30:02.053383342+00:00,Jacket,Outerwear,97,S,Gold,Summer,Next Day Air,Yes,Yes,Cash
 e18d3a64-37ef-4040-98cd-61a4ebdb0e23,2023-07-27 01:24:42.750276994+00:00,Blouse,Clothing,100,XL,Gold,Fall,Store Pickup,Yes,Yes,Debit Card
-d0ca0191-0e5e-472f-bae4-ac17288d1f1e,2023-02-26 04:05:44.692786059+00:00,Blouse,Clothing,96,S,Indigo,Fall,2-Day Shipping,Yes,Yes,Credit Card
+d0ca0191-0e5e-472f-bae4-ac17288d1f1e,2024-02-19 04:05:44.692786059+00:00,Blouse,Clothing,96,S,Indigo,Fall,2-Day Shipping,Yes,Yes,Credit Card
 9fb4e2d6-90fc-4c4a-9ef4-9ad85e5f8d70,2023-04-14 06:41:29.515349913+00:00,Gloves,Accessories,99,M,Blue,Spring,Next Day Air,Yes,Yes,Debit Card
 5df3ef86-af3c-4ead-a690-cf1437a60ac1,2023-03-27 11:01:17.960796706+00:00,Shorts,Clothing,91,L,Black,Winter,2-Day Shipping,Yes,Yes,PayPal
 48500024-3aa6-42de-8df8-97a3dcb504a0,2023-08-08 19:45:01.086040343+00:00,Hat,Accessories,30,L,Black,Winter,Standard,Yes,Yes,PayPal
@@ -471,7 +471,7 @@ d2742ee0-fd01-4863-b68a-36bece64c028,2023-06-19 21:00:30.125482406+00:00,Backpac
 0b4d7365-489a-4558-89d1-67e76dd4cf90,2023-01-05 15:27:33.391256395+00:00,Shorts,Clothing,46,L,Pink,Fall,2-Day Shipping,Yes,Yes,Debit Card
 08fa181b-f99c-4c0b-9ec7-86b9305153b1,2023-08-23 07:05:06.112965886+00:00,Dress,Clothing,63,L,Teal,Summer,Express,Yes,Yes,Cash
 d546f34b-fa34-4c3b-85c3-bec82589285d,2023-02-17 07:49:53.870679784+00:00,Scarf,Accessories,72,XL,White,Winter,2-Day Shipping,Yes,Yes,Bank Transfer
-8cbd433d-944e-4fb9-8f4c-afa5f07b98d4,2023-02-28 20:00:54.257159458+00:00,Jeans,Clothing,39,L,Gray,Winter,Free Shipping,Yes,Yes,Bank Transfer
+8cbd433d-944e-4fb9-8f4c-afa5f07b98d4,2024-02-19 20:00:54.257159458+00:00,Jeans,Clothing,39,L,Gray,Winter,Free Shipping,Yes,Yes,Bank Transfer
 f9dd2667-8bd3-457d-90ba-49fff54818d8,2023-01-08 06:33:21.841407120+00:00,Coat,Outerwear,42,L,Olive,Spring,Store Pickup,Yes,Yes,PayPal
 aa3a4b7d-e6bf-4851-af38-531708bccdf9,2023-10-18 23:52:31.885017265+00:00,Sweater,Clothing,76,XL,Maroon,Summer,2-Day Shipping,Yes,Yes,Cash
 2debb2e1-dfe6-4385-a5ea-dee5a18e51a0,2023-08-16 23:56:01.934400610+00:00,Sneakers,Footwear,66,L,Magenta,Summer,Free Shipping,Yes,Yes,Debit Card
@@ -485,7 +485,7 @@ ed06e466-db5f-483e-bd78-b736044c6d33,2023-07-01 00:45:00.882342436+00:00,Handbag
 230902bb-f098-4f56-ba68-01e569911662,2023-05-03 13:42:09.435802928+00:00,Hoodie,Clothing,73,M,White,Fall,Store Pickup,Yes,Yes,Debit Card
 f626b50f-aea7-4599-a8ec-a38ddccf87d1,2023-08-15 15:18:22.683635489+00:00,Hat,Accessories,73,L,Lavender,Summer,Free Shipping,Yes,Yes,Bank Transfer
 e4219648-42a0-479a-9f9d-2763d2278de1,2023-04-28 16:07:35.453463479+00:00,Shoes,Footwear,44,S,Blue,Spring,Next Day Air,Yes,Yes,Debit Card
-ba0f52ba-9f66-4936-babc-e6dbaf9ee944,2023-02-19 12:06:59.355805844+00:00,Sandals,Footwear,63,M,Charcoal,Fall,Store Pickup,Yes,Yes,Venmo
+ba0f52ba-9f66-4936-babc-e6dbaf9ee944,2024-02-19 12:06:59.355805844+00:00,Sandals,Footwear,63,M,Charcoal,Fall,Store Pickup,Yes,Yes,Venmo
 9fd6da07-c0f5-48cd-a2ca-b424bee78fc8,2023-09-26 15:20:02.039084399+00:00,Jacket,Outerwear,68,L,Red,Winter,Store Pickup,Yes,Yes,Credit Card
 91b508ab-f90d-4bad-bf3d-a773167e4047,2023-05-07 00:35:23.917800427+00:00,Sweater,Clothing,29,L,Olive,Spring,Standard,Yes,Yes,Venmo
 c9a2884c-68fd-4513-afba-f54b0f7ea75f,2023-01-28 11:38:06.785664195+00:00,Socks,Clothing,85,M,Green,Summer,Standard,Yes,Yes,PayPal
@@ -496,7 +496,7 @@ c78f5695-9548-4022-975f-87f34793f6fd,2023-05-18 05:16:37.983363822+00:00,Shirt,C
 47048909-3319-4982-b99c-0ebc67bbad88,2023-03-31 17:38:56.831780597+00:00,Boots,Footwear,68,M,Indigo,Winter,Express,Yes,Yes,Debit Card
 f7ca2494-413a-4907-9e72-abab759b0153,2023-04-05 12:55:08.090528328+00:00,Handbag,Accessories,36,XL,Cyan,Fall,Free Shipping,Yes,Yes,Debit Card
 08dcd7c4-7b85-42a5-852e-4bd07fd2003d,2023-07-02 14:00:18.577260463+00:00,Dress,Clothing,63,S,Maroon,Fall,Express,Yes,Yes,Venmo
-3cd08ed4-d818-47be-ba76-ced340c84159,2023-02-20 09:51:34.146518081+00:00,Sneakers,Footwear,39,S,Silver,Winter,Free Shipping,Yes,Yes,Cash
+3cd08ed4-d818-47be-ba76-ced340c84159,2024-02-19 09:51:34.146518081+00:00,Sneakers,Footwear,39,S,Silver,Winter,Free Shipping,Yes,Yes,Cash
 bf67cba2-17ca-4ed2-b79c-87dad03c3e1f,2023-11-17 19:30:37.642779348+00:00,Boots,Footwear,78,M,Lavender,Spring,Free Shipping,Yes,Yes,Bank Transfer
 ba8b6817-5fbc-47e0-937a-f501b3342247,2023-08-08 19:36:51.370570786+00:00,Shoes,Footwear,99,L,Silver,Winter,Express,Yes,Yes,PayPal
 a551383c-7983-4993-a4f1-70cdf871a5ab,2023-01-26 22:45:35.844784988+00:00,T-shirt,Clothing,31,L,Purple,Fall,Next Day Air,Yes,Yes,Venmo
@@ -509,7 +509,7 @@ d2139789-67e2-489e-b13c-a86460b05bd3,2023-03-26 07:41:17.022676600+00:00,T-shirt
 6b1e71a9-c3cb-4545-ad2f-c1e974eb891d,2023-11-30 19:22:00.701615826+00:00,Shorts,Clothing,20,M,Magenta,Spring,Store Pickup,Yes,Yes,Debit Card
 e8b69221-317d-47d7-ad5e-eb04c029dd24,2023-06-28 01:43:27.054064969+00:00,Jewelry,Accessories,20,S,Yellow,Winter,Store Pickup,Yes,Yes,PayPal
 66061a90-79b4-43a7-9d12-ed2bec5987a4,2023-08-23 16:45:20.574985948+00:00,T-shirt,Clothing,80,L,Cyan,Summer,Free Shipping,Yes,Yes,Debit Card
-70542883-fa01-4585-9857-ee2e0242fc35,2023-02-26 23:18:29.275888758+00:00,Shirt,Clothing,87,M,Teal,Fall,2-Day Shipping,Yes,Yes,Venmo
+70542883-fa01-4585-9857-ee2e0242fc35,2024-02-19 23:18:29.275888758+00:00,Shirt,Clothing,87,M,Teal,Fall,2-Day Shipping,Yes,Yes,Venmo
 9f4303de-4b22-490c-aeee-74ffa6273d6a,2023-04-05 05:46:41.112398872+00:00,Shirt,Clothing,46,L,Yellow,Fall,Free Shipping,Yes,Yes,PayPal
 87e7b5ea-c405-4540-b5d0-b148fb4281f9,2023-04-24 09:56:47.462710649+00:00,Gloves,Accessories,49,L,Peach,Winter,Next Day Air,Yes,Yes,Bank Transfer
 39aa09c9-3116-4dec-a425-51e221a11034,2023-02-13 16:38:47.035967906+00:00,Scarf,Accessories,65,M,Peach,Fall,Store Pickup,Yes,Yes,Venmo
@@ -574,7 +574,7 @@ e32af628-8115-4829-89c0-3b8a0e3a2e84,2023-06-05 19:47:52.307186806+00:00,T-shirt
 f2593c01-49a2-4497-afb8-93cf068467a3,2023-03-11 23:46:18.443636190+00:00,Scarf,Accessories,97,XL,Cyan,Summer,Next Day Air,Yes,Yes,Bank Transfer
 26dc2b7f-44dc-419d-bd31-b1d4c8bd6a2e,2023-04-29 19:43:04.795184031+00:00,Pants,Clothing,68,M,Charcoal,Summer,2-Day Shipping,Yes,Yes,Credit Card
 48e50c99-1a82-4518-a022-abff041f4c14,2023-08-07 11:55:36.680611168+00:00,Sneakers,Footwear,79,L,Red,Fall,Free Shipping,Yes,Yes,Bank Transfer
-cbddab9d-13fe-4b81-88cb-4c31e8ac85a4,2023-02-23 07:15:54.795065472+00:00,Jeans,Clothing,86,M,Peach,Fall,Express,Yes,Yes,PayPal
+cbddab9d-13fe-4b81-88cb-4c31e8ac85a4,2024-02-19 07:15:54.795065472+00:00,Jeans,Clothing,86,M,Peach,Fall,Express,Yes,Yes,PayPal
 473d8ae6-cdd6-46a0-b0a2-9f38b003c0a6,2023-08-05 17:46:46.212197198+00:00,Hat,Accessories,68,M,Black,Winter,2-Day Shipping,Yes,Yes,Credit Card
 b22e7352-5428-4b7a-866f-b26af6d374c0,2023-04-11 07:40:57.751382439+00:00,Skirt,Clothing,52,M,Black,Fall,Store Pickup,Yes,Yes,Venmo
 7e817a91-4bbe-411b-b9d6-250fbcad7d27,2023-09-20 05:12:27.609527776+00:00,Sandals,Footwear,90,M,Purple,Fall,Next Day Air,Yes,Yes,Credit Card
@@ -606,16 +606,16 @@ af04b360-eb21-4b07-ad46-a567836a5467,2023-05-20 09:46:56.167694700+00:00,Handbag
 5c119135-f925-487a-a8dd-69370d86f9ac,2023-10-04 05:16:32.882411950+00:00,Sunglasses,Accessories,92,S,Pink,Fall,Store Pickup,Yes,Yes,Credit Card
 a28d3f71-8e9d-4a1b-8b66-beb03fad3a73,2023-08-29 22:40:19.215082840+00:00,Hat,Accessories,32,XL,Charcoal,Winter,Standard,Yes,Yes,Bank Transfer
 f84157d5-f5cb-44f2-983e-8f9c50a13bfd,2023-02-16 01:43:07.616270709+00:00,Scarf,Accessories,90,M,Blue,Spring,Standard,Yes,Yes,PayPal
-e3edabb5-13c0-41bf-a925-9eae13625107,2023-02-19 17:51:13.695113760+00:00,Hoodie,Clothing,23,L,Purple,Fall,Next Day Air,Yes,Yes,Cash
+e3edabb5-13c0-41bf-a925-9eae13625107,2024-02-19 17:51:13.695113760+00:00,Hoodie,Clothing,23,L,Purple,Fall,Next Day Air,Yes,Yes,Cash
 e40de8a8-c869-4198-82a7-93b939f15ece,2023-03-24 21:09:15.044999846+00:00,Backpack,Accessories,25,S,Gold,Fall,Next Day Air,Yes,Yes,Venmo
 539804b7-ff44-4081-a783-9f889d3d4c70,2023-10-14 22:26:54.917573345+00:00,Sweater,Clothing,54,L,Purple,Fall,Next Day Air,Yes,Yes,Credit Card
 ebed5dbb-d4f0-4736-96f2-b566643b6328,2023-03-05 10:17:25.988669707+00:00,Shorts,Clothing,72,M,Charcoal,Summer,Free Shipping,Yes,Yes,Bank Transfer
 0aa8fec1-aae0-47ac-bfa6-a2ebfe2be0d7,2023-08-26 19:48:00.313347740+00:00,Scarf,Accessories,33,M,Black,Winter,Store Pickup,Yes,Yes,Cash
 8c6d1f10-a71b-49fd-bef6-18d3dc35da7c,2023-12-22 18:59:02.421332967+00:00,Hat,Accessories,43,L,Lavender,Fall,Express,Yes,Yes,Credit Card
-00b737e8-be56-440f-bd85-f98d97b85610,2023-02-22 13:50:21.584916546+00:00,Coat,Outerwear,51,L,Lavender,Fall,Standard,Yes,Yes,Cash
+00b737e8-be56-440f-bd85-f98d97b85610,2024-02-19 13:50:21.584916546+00:00,Coat,Outerwear,51,L,Lavender,Fall,Standard,Yes,Yes,Cash
 81bebffa-24d2-4092-a209-dc1c268dc33a,2023-01-21 16:45:08.157023899+00:00,Jewelry,Accessories,85,M,Lavender,Winter,Standard,Yes,Yes,Credit Card
 a9e7af4c-e88e-46df-a7a6-786ea204ef6d,2023-07-22 12:08:08.336373993+00:00,Sandals,Footwear,100,L,Olive,Summer,Next Day Air,Yes,Yes,Venmo
-b9d21df6-b071-4381-979e-9c0b4c70db07,2023-02-28 10:02:12.955755330+00:00,Gloves,Accessories,72,L,Teal,Spring,Free Shipping,Yes,Yes,Credit Card
+b9d21df6-b071-4381-979e-9c0b4c70db07,2024-02-19 10:02:12.955755330+00:00,Gloves,Accessories,72,L,Teal,Spring,Free Shipping,Yes,Yes,Credit Card
 e01f8854-0f8c-40db-bbd4-6e972e923148,2023-06-04 20:22:51.942441213+00:00,Backpack,Accessories,57,M,Maroon,Fall,Standard,Yes,Yes,Bank Transfer
 06aba734-8f7f-4ca1-826e-cc0b1612b291,2023-10-05 16:12:33.214245827+00:00,Jacket,Outerwear,94,L,Cyan,Spring,Express,Yes,Yes,Debit Card
 bc16583c-b2f1-4ccb-8a1c-5dcde56e1edd,2023-07-29 10:55:12.700557824+00:00,Backpack,Accessories,34,M,Charcoal,Summer,Store Pickup,Yes,Yes,Debit Card
@@ -645,7 +645,7 @@ d0ac61b3-0bf6-4eda-907d-aa6f6f17fc87,2023-03-20 07:39:32.526097119+00:00,Jewelry
 608b5f86-c053-4ce3-b390-019d89bd1d1c,2023-04-26 08:18:32.256861676+00:00,Sweater,Clothing,57,XL,Green,Winter,Next Day Air,Yes,Yes,Bank Transfer
 f22c1d78-ccc4-44ad-9687-8d4d0036b913,2023-08-28 10:38:09.891926152+00:00,Backpack,Accessories,93,S,Blue,Summer,Next Day Air,Yes,Yes,Cash
 7ada1129-a17e-4aca-a11c-47400aa76b43,2023-12-13 13:40:56.947069662+00:00,Hoodie,Clothing,42,S,Purple,Summer,Express,Yes,Yes,Venmo
-ff72b547-389d-4d44-a74f-bf68b7d2716a,2023-02-22 10:09:04.679945575+00:00,Boots,Footwear,54,XL,Pink,Spring,Standard,Yes,Yes,Venmo
+ff72b547-389d-4d44-a74f-bf68b7d2716a,2024-02-19 10:09:04.679945575+00:00,Boots,Footwear,54,XL,Pink,Spring,Standard,Yes,Yes,Venmo
 c2c094ad-8a65-4315-8076-bf325ce71edb,2023-03-03 01:58:34.796259940+00:00,Blouse,Clothing,70,XL,Charcoal,Summer,Express,Yes,Yes,Credit Card
 946aa010-6f84-4505-9c1e-718daaf94c79,2023-03-09 04:24:16.269157663+00:00,Hoodie,Clothing,31,M,Brown,Winter,Store Pickup,Yes,Yes,Credit Card
 150632af-cdff-4a1d-ac44-24bcf8d2b0eb,2023-12-29 12:59:59.890230862+00:00,Pants,Clothing,93,L,Orange,Spring,Store Pickup,Yes,Yes,PayPal
@@ -658,7 +658,7 @@ db88318f-a6fb-41c2-b192-59c05cf23a6d,2023-07-24 19:24:04.847539748+00:00,Handbag
 34d0b711-e10f-4bff-a8cd-bf63fe4f38a1,2023-05-19 14:22:45.043834949+00:00,Jeans,Clothing,23,M,Beige,Summer,Standard,Yes,Yes,PayPal
 295ec4ea-0cb9-4c6b-aa28-11efca787a9c,2023-09-28 14:19:31.694322479+00:00,Jacket,Outerwear,80,M,White,Winter,Free Shipping,Yes,Yes,PayPal
 8dbcdd95-8622-4226-8b6a-4a070cdbff23,2023-11-08 04:35:47.800981681+00:00,Backpack,Accessories,37,S,White,Fall,Store Pickup,Yes,Yes,Venmo
-ffcf47e5-88ad-49c7-bc70-4dae0bf4d9c3,2023-02-26 06:52:12.891509823+00:00,Shorts,Clothing,52,S,Gold,Spring,2-Day Shipping,Yes,Yes,Cash
+ffcf47e5-88ad-49c7-bc70-4dae0bf4d9c3,2024-02-19 06:52:12.891509823+00:00,Shorts,Clothing,52,S,Gold,Spring,2-Day Shipping,Yes,Yes,Cash
 dcdae62c-e3d1-4f22-8110-61a60eaefb80,2023-05-24 20:12:20.579745168+00:00,Coat,Outerwear,79,M,Olive,Fall,2-Day Shipping,Yes,Yes,Credit Card
 1466d93b-34c5-4dde-be0c-50e13c51574e,2023-02-11 18:44:19.246174867+00:00,Shirt,Clothing,68,XL,Green,Fall,Store Pickup,Yes,Yes,Credit Card
 48cb4cbf-ecd2-4d59-92ec-16675715ebc6,2023-03-23 18:30:07.327966448+00:00,Gloves,Accessories,98,L,Magenta,Fall,Express,Yes,Yes,Venmo
@@ -774,7 +774,7 @@ ff11a484-637f-4574-8b44-ed5dc2622894,2023-03-11 22:07:15.327543164+00:00,Sweater
 3b80140a-7f48-4e5c-8101-6503e5c348fd,2023-06-16 17:05:10.106644085+00:00,Jeans,Clothing,22,L,Teal,Fall,Free Shipping,Yes,Yes,Debit Card
 86f49019-37b0-4215-a9b2-0ccdcbd910e3,2023-03-27 08:24:51.667428319+00:00,Hat,Accessories,84,L,Indigo,Winter,Express,Yes,Yes,Debit Card
 89a9cf89-5500-4025-9565-1d243089f213,2023-09-05 14:19:22.353167433+00:00,Hat,Accessories,46,M,Yellow,Summer,Standard,Yes,Yes,Credit Card
-2651f659-3ca3-496d-8c39-1f0e7f298b86,2023-02-25 21:44:35.290801997+00:00,Handbag,Accessories,53,S,Gold,Winter,Store Pickup,Yes,Yes,PayPal
+2651f659-3ca3-496d-8c39-1f0e7f298b86,2024-02-19 21:44:35.290801997+00:00,Handbag,Accessories,53,S,Gold,Winter,Store Pickup,Yes,Yes,PayPal
 b297b5ad-cc3c-40a3-83bb-f96bbe02bacf,2023-01-27 17:23:09.049803992+00:00,Shirt,Clothing,60,M,Maroon,Spring,Standard,Yes,Yes,Venmo
 1a287522-b0aa-426f-8f6d-d239a952bdf5,2023-01-26 20:13:11.789542123+00:00,Socks,Clothing,32,XL,Silver,Spring,Express,Yes,Yes,Venmo
 6b628ce5-05e8-4ea5-b621-8adc703fabc8,2023-08-03 13:00:53.968609967+00:00,Socks,Clothing,50,M,Yellow,Summer,Store Pickup,Yes,Yes,Debit Card
@@ -814,7 +814,7 @@ dd536c18-47fe-4b0d-b9c1-f569494aa3cf,2023-06-27 01:11:15.917698420+00:00,Boots,F
 fa1d0457-39c9-407c-9e10-497726a835eb,2023-12-08 19:36:01.813496501+00:00,Boots,Footwear,56,M,Olive,Summer,Standard,Yes,Yes,Credit Card
 4afd0a0f-3801-4c68-bf29-7d38ab64812e,2023-11-12 16:38:59.311845444+00:00,Handbag,Accessories,45,S,Olive,Summer,Store Pickup,Yes,Yes,Debit Card
 e64e7f44-d8c3-441a-aa94-3f84caa7543c,2023-02-04 04:30:29.452939681+00:00,Shirt,Clothing,62,M,Pink,Winter,Express,Yes,Yes,PayPal
-31902237-d0cd-440c-81f3-42332eb8f75a,2023-02-28 08:33:44.799808454+00:00,Hat,Accessories,84,L,Teal,Spring,Next Day Air,Yes,Yes,Venmo
+31902237-d0cd-440c-81f3-42332eb8f75a,2024-02-19 08:33:44.799808454+00:00,Hat,Accessories,84,L,Teal,Spring,Next Day Air,Yes,Yes,Venmo
 95565180-d550-44e9-9460-bc650c9bf798,2023-09-22 20:48:42.619686283+00:00,Sweater,Clothing,24,L,Cyan,Summer,Store Pickup,Yes,Yes,Debit Card
 829090ba-6b57-4195-bc65-d4658dee366b,2023-03-13 18:20:26.146320165+00:00,Handbag,Accessories,21,S,Gray,Spring,Store Pickup,Yes,Yes,PayPal
 76cbc7bb-f1de-4375-8625-9d5c79f9d80e,2023-03-17 16:50:59.032206998+00:00,Shirt,Clothing,91,M,Peach,Winter,Store Pickup,Yes,Yes,Debit Card
@@ -900,7 +900,7 @@ ee35c98d-0b6b-400d-aa5f-25c5f749d890,2023-03-25 00:21:04.568957854+00:00,Jewelry
 78016cd5-3e81-49a6-a1ef-04b0ca79a4ab,2023-06-15 18:19:10.904143610+00:00,Belt,Accessories,70,L,Red,Spring,2-Day Shipping,Yes,Yes,Bank Transfer
 240be25f-78ac-4e3e-b18c-4f7ea68950ce,2023-01-14 01:25:04.822298938+00:00,Sweater,Clothing,58,M,Peach,Summer,Standard,Yes,Yes,PayPal
 a9f91850-f763-4b47-8acf-20d21a1e5a34,2023-09-24 10:58:38.873322594+00:00,Hat,Accessories,98,L,Gray,Fall,Free Shipping,Yes,Yes,Bank Transfer
-c93a4573-c995-41ab-84af-4eb01573fbc2,2023-02-24 17:25:23.055225016+00:00,Scarf,Accessories,68,L,Violet,Summer,2-Day Shipping,Yes,Yes,Cash
+c93a4573-c995-41ab-84af-4eb01573fbc2,2024-02-19 17:25:23.055225016+00:00,Scarf,Accessories,68,L,Violet,Summer,2-Day Shipping,Yes,Yes,Cash
 02cceb79-bae2-498f-bf56-9db48b604799,2023-07-02 00:55:50.236613559+00:00,Hat,Accessories,44,M,Beige,Summer,Next Day Air,Yes,Yes,Cash
 7c189a64-3775-4fb7-9649-492a2db4ec22,2023-06-20 08:01:17.830642673+00:00,Jacket,Outerwear,45,M,Blue,Winter,Express,Yes,Yes,PayPal
 c24b01fd-d2fa-4866-a9c1-c8a7c9de3dff,2023-05-23 05:39:52.172271138+00:00,T-shirt,Clothing,99,L,Magenta,Spring,Free Shipping,Yes,Yes,PayPal
@@ -918,7 +918,7 @@ ae07528c-e146-409b-acb0-fcfa4da7fddf,2023-05-09 05:09:23.062793991+00:00,Dress,C
 81893d55-817e-48c3-9ad0-793dbd199ddc,2023-03-20 12:49:54.485933340+00:00,Jeans,Clothing,34,S,Blue,Spring,Standard,Yes,Yes,Venmo
 c29372e5-335e-4e84-aa63-628774e7af63,2023-02-08 04:34:55.936873290+00:00,Sweater,Clothing,64,M,Maroon,Spring,Standard,Yes,Yes,Bank Transfer
 5f7d6b7c-b23f-4cd4-8b17-9c3cb27d3be8,2023-05-25 02:31:51.533875774+00:00,Shorts,Clothing,42,M,Orange,Spring,2-Day Shipping,Yes,Yes,Cash
-245ff7d6-acf9-47cc-ae88-18bbc9bd37e1,2023-02-28 02:36:44.719482866+00:00,Shirt,Clothing,82,L,Green,Winter,2-Day Shipping,Yes,Yes,Debit Card
+245ff7d6-acf9-47cc-ae88-18bbc9bd37e1,2024-02-19 02:36:44.719482866+00:00,Shirt,Clothing,82,L,Green,Winter,2-Day Shipping,Yes,Yes,Debit Card
 83156b11-b2cd-4b51-ad7a-719b838a8c2b,2023-03-10 13:15:19.248759898+00:00,Belt,Accessories,81,XL,Gold,Summer,Free Shipping,Yes,Yes,Cash
 93537c53-2f1d-4414-b90f-bfc171f990cf,2023-11-24 14:38:19.696859138+00:00,Coat,Outerwear,24,L,Silver,Summer,Express,Yes,Yes,PayPal
 7baddef9-4c84-40ac-8cf7-7d89cc67d231,2023-12-03 06:33:52.715142195+00:00,Sneakers,Footwear,60,M,Cyan,Fall,Standard,Yes,Yes,Credit Card
@@ -965,7 +965,7 @@ e264ee97-0453-43fa-b1ed-aa5ae494b6ac,2023-10-15 00:31:07.435195926+00:00,Boots,F
 421ec036-e047-483b-985f-2196fdfb3938,2023-09-25 08:04:41.699516517+00:00,Boots,Footwear,63,L,Green,Spring,2-Day Shipping,Yes,Yes,Credit Card
 7f934145-b84d-43e6-b95e-18f064f4365c,2023-09-26 15:14:51.313574348+00:00,Sandals,Footwear,51,M,Beige,Spring,Next Day Air,Yes,Yes,Venmo
 ac1eb063-a2ed-4676-b39e-81dd9cb1577a,2023-10-23 17:44:40.460148356+00:00,Boots,Footwear,55,L,Black,Spring,Store Pickup,Yes,Yes,Credit Card
-5bfa6f10-54ea-42a1-bae4-fe97079a9e80,2023-02-21 17:36:29.169321407+00:00,Dress,Clothing,55,M,Brown,Spring,Express,Yes,Yes,Cash
+5bfa6f10-54ea-42a1-bae4-fe97079a9e80,2024-02-19 17:36:29.169321407+00:00,Dress,Clothing,55,M,Brown,Spring,Express,Yes,Yes,Cash
 d1ca3559-1161-4ddc-bcc3-0213c6bcb6a2,2023-04-17 19:19:08.501102388+00:00,Hoodie,Clothing,26,S,Silver,Summer,Store Pickup,Yes,Yes,Cash
 a441be36-d8eb-40fa-a544-32b000e0428c,2023-05-03 11:44:22.578270874+00:00,Shorts,Clothing,67,L,Gray,Summer,Next Day Air,Yes,Yes,Bank Transfer
 df539a07-33d1-4c45-b2d5-9e6833b20541,2023-08-02 00:27:25.884459450+00:00,Coat,Outerwear,31,S,Pink,Fall,Express,Yes,Yes,PayPal
@@ -991,7 +991,7 @@ b4672dd1-497e-41a4-b090-15b79dea4e98,2023-10-15 06:26:01.954624040+00:00,Scarf,A
 6899a3fd-74e8-4d63-b73b-75282205e996,2023-11-09 10:08:14.079991800+00:00,Shoes,Footwear,31,M,Beige,Spring,Store Pickup,Yes,Yes,Bank Transfer
 d485b47a-3d91-41ff-8e78-b01e4036651e,2023-01-08 23:35:42.448627185+00:00,Sunglasses,Accessories,63,S,Yellow,Spring,Store Pickup,Yes,Yes,Cash
 84d85bc4-ae22-4552-a645-3325b39a1819,2023-01-05 08:16:03.750979797+00:00,Shorts,Clothing,97,XL,White,Spring,Standard,Yes,Yes,Bank Transfer
-8234eb4f-90cf-4eb8-a59f-56f2bc070461,2023-02-23 23:41:20.436899816+00:00,Jacket,Outerwear,99,M,Gray,Winter,Express,Yes,Yes,Debit Card
+8234eb4f-90cf-4eb8-a59f-56f2bc070461,2024-02-19 23:41:20.436899816+00:00,Jacket,Outerwear,99,M,Gray,Winter,Express,Yes,Yes,Debit Card
 0abf95b1-ecc7-4a75-85e7-a31200628b95,2023-01-12 20:04:25.352147147+00:00,Sandals,Footwear,90,M,Peach,Winter,Store Pickup,Yes,Yes,Cash
 69928029-21fe-4373-8cf8-f429c5fe2da7,2023-01-03 01:34:18.559656289+00:00,Shoes,Footwear,68,L,Violet,Fall,Express,Yes,Yes,Debit Card
 55548561-e0ed-42f3-9b32-beae57cb4ab9,2023-09-21 16:17:39.291348199+00:00,Jewelry,Accessories,80,M,Magenta,Spring,2-Day Shipping,Yes,Yes,Venmo
@@ -1053,7 +1053,7 @@ db68a25d-3382-412c-bbb9-8fe3aaf04ece,2023-01-04 12:04:16.683003426+00:00,Socks,C
 c0fadf1c-734f-4fc3-ab26-8b5cfd935d77,2023-09-05 07:41:05.709532330+00:00,Socks,Clothing,53,M,Indigo,Fall,Free Shipping,Yes,Yes,PayPal
 86cd75cb-67ad-42a6-9f24-85422008d32b,2023-06-01 17:27:18.579967358+00:00,Shoes,Footwear,36,XL,Pink,Fall,2-Day Shipping,Yes,Yes,Credit Card
 f7dfd19e-17d0-4fcd-a7d1-b4b40dd8f47a,2023-02-13 17:31:43.186448199+00:00,Blouse,Clothing,70,M,Blue,Spring,2-Day Shipping,Yes,Yes,Debit Card
-5531117e-d39c-4aec-a58d-172dbcd44f6c,2023-02-25 19:43:39.744353210+00:00,Shorts,Clothing,96,L,Cyan,Winter,Express,Yes,Yes,PayPal
+5531117e-d39c-4aec-a58d-172dbcd44f6c,2024-02-19 19:43:39.744353210+00:00,Shorts,Clothing,96,L,Cyan,Winter,Express,Yes,Yes,PayPal
 84cb0797-3bda-47ff-bcd6-87cd81f13bc1,2023-03-15 04:46:45.755219152+00:00,Jacket,Outerwear,27,M,Orange,Spring,Next Day Air,Yes,Yes,Debit Card
 bf249f08-955d-46e1-9a6c-b51521155fc1,2023-01-27 04:38:05.326001129+00:00,Sweater,Clothing,64,L,Black,Winter,2-Day Shipping,Yes,Yes,Venmo
 b8a1dabd-4edd-401d-81dd-8b2942b3dd1d,2023-06-28 13:09:03.222555224+00:00,Jacket,Outerwear,23,S,Maroon,Spring,2-Day Shipping,Yes,Yes,Credit Card
@@ -1175,12 +1175,12 @@ eb4f1f76-8313-4c60-a723-933f4dbc37bc,2023-09-01 15:11:45.404092365+00:00,Scarf,A
 99484a4c-59bc-4f6a-82aa-668bbe92e4cd,2023-04-16 01:05:06.985239373+00:00,Jewelry,Accessories,76,M,Indigo,Winter,Express,Yes,Yes,Cash
 fc3243fa-ebff-49d3-9897-317bfbb8546d,2023-01-23 01:11:13.836283256+00:00,Backpack,Accessories,31,M,Black,Winter,Express,Yes,Yes,Bank Transfer
 73fe8534-de4e-46d2-a83e-a37dfd05795f,2023-05-21 04:23:42.253170113+00:00,Belt,Accessories,81,M,Beige,Spring,Store Pickup,Yes,Yes,PayPal
-f447a948-d69f-44de-8b35-b8b47c2751c2,2023-02-21 09:38:51.420547645+00:00,Dress,Clothing,83,M,Red,Winter,Free Shipping,Yes,Yes,PayPal
+f447a948-d69f-44de-8b35-b8b47c2751c2,2024-02-19 09:38:51.420547645+00:00,Dress,Clothing,83,M,Red,Winter,Free Shipping,Yes,Yes,PayPal
 399babda-a652-4d71-8647-670f1aa613d9,2023-11-27 01:26:23.368738606+00:00,Skirt,Clothing,21,M,Black,Spring,Standard,Yes,Yes,Debit Card
 21ce5cfd-23e4-4835-9fdb-aed7eb8cda6d,2023-01-27 18:56:44.194623338+00:00,Dress,Clothing,22,M,Teal,Spring,Express,Yes,Yes,Debit Card
 e12a97a5-1bed-4d01-afee-adcd28be00cf,2023-09-26 19:06:46.841082568+00:00,T-shirt,Clothing,33,M,Blue,Summer,Free Shipping,Yes,Yes,Bank Transfer
 5c73c9c6-bcbf-4015-89e7-f44b9a29dcb3,2023-11-13 18:00:03.091191163+00:00,Skirt,Clothing,23,S,Beige,Spring,Standard,Yes,Yes,Cash
-cb727eed-a4bd-43dc-ace3-2702fbd6a918,2023-02-28 09:25:31.304506791+00:00,Shorts,Clothing,96,L,Teal,Summer,Free Shipping,Yes,Yes,Bank Transfer
+cb727eed-a4bd-43dc-ace3-2702fbd6a918,2024-02-19 09:25:31.304506791+00:00,Shorts,Clothing,96,L,Teal,Summer,Free Shipping,Yes,Yes,Bank Transfer
 8ed1bd22-9067-422a-8a00-23505439dbcd,2023-07-21 01:15:21.409154045+00:00,Jewelry,Accessories,21,M,Maroon,Spring,Express,Yes,Yes,PayPal
 2546823b-be50-4ba9-8ca2-5156921e1b08,2023-08-31 02:46:26.183864008+00:00,Pants,Clothing,39,M,Yellow,Spring,2-Day Shipping,Yes,Yes,Credit Card
 2b84dfb3-a937-49fb-aff9-c7e6d2955d4d,2023-08-26 04:28:04.729289588+00:00,Belt,Accessories,73,S,Indigo,Fall,Express,Yes,Yes,Credit Card
@@ -1210,7 +1210,7 @@ e1f73c10-7f31-46d4-80be-282bb7327369,2023-11-08 04:13:13.373178839+00:00,Sandals
 5e7e0862-9e5a-4306-8142-303d2bac345a,2023-12-06 06:38:47.237701191+00:00,Boots,Footwear,100,S,Red,Winter,2-Day Shipping,Yes,Yes,Debit Card
 3ade7cc8-60ca-4e8a-a018-b83f3e14c740,2023-06-03 03:56:02.707155162+00:00,Pants,Clothing,62,M,Blue,Winter,Next Day Air,Yes,Yes,Bank Transfer
 d20ff5ed-9fe1-4f24-ba92-83b04de7c787,2023-09-13 06:42:33.834190302+00:00,Sunglasses,Accessories,78,M,Olive,Fall,Next Day Air,Yes,Yes,Cash
-cd480654-4766-49f5-a4ab-f1a2fccb7731,2023-02-28 15:39:56.000934663+00:00,Hoodie,Clothing,94,M,Green,Spring,Store Pickup,Yes,Yes,Venmo
+cd480654-4766-49f5-a4ab-f1a2fccb7731,2024-02-19 15:39:56.000934663+00:00,Hoodie,Clothing,94,M,Green,Spring,Store Pickup,Yes,Yes,Venmo
 98653124-a29e-42c4-9c52-fcc9f35b9cfe,2023-09-15 03:00:14.395542441+00:00,Shoes,Footwear,74,M,Yellow,Summer,Free Shipping,Yes,Yes,Credit Card
 26a3c801-f915-4c27-9b66-df4de65f7d93,2023-03-07 09:11:29.656430621+00:00,Handbag,Accessories,52,XL,Black,Spring,Express,Yes,Yes,Debit Card
 cafd27db-5690-4d0f-aa80-c8477e87103e,2023-09-10 10:16:59.862148747+00:00,Jacket,Outerwear,81,M,Blue,Fall,Free Shipping,Yes,Yes,Cash
@@ -1231,7 +1231,7 @@ a8871336-20e4-4d4f-b3d7-aea65555e678,2023-10-13 20:55:30.573623432+00:00,Jacket,
 dd6752ae-a5db-4252-a537-1b885a1306f9,2023-05-18 05:32:18.500417854+00:00,Jewelry,Accessories,52,XL,Maroon,Winter,Express,Yes,Yes,Bank Transfer
 88962451-17c9-4bff-9b25-47f1a5bb099c,2023-10-10 07:39:37.966523752+00:00,Hat,Accessories,80,L,Brown,Spring,Standard,Yes,Yes,Venmo
 772b8540-8c13-4e49-8743-214cc765585f,2023-06-16 12:41:04.762645852+00:00,Socks,Clothing,79,M,Gold,Spring,2-Day Shipping,Yes,Yes,Credit Card
-73968187-efd8-4d8a-86a4-8d33ef744cb2,2023-02-25 15:37:32.537720570+00:00,Handbag,Accessories,23,M,Charcoal,Summer,Free Shipping,Yes,Yes,Debit Card
+73968187-efd8-4d8a-86a4-8d33ef744cb2,2024-02-19 15:37:32.537720570+00:00,Handbag,Accessories,23,M,Charcoal,Summer,Free Shipping,Yes,Yes,Debit Card
 3ae176c9-bfe5-4b93-861b-46db53e658bd,2023-07-23 10:53:44.147597389+00:00,Pants,Clothing,73,L,Beige,Winter,Next Day Air,Yes,Yes,Venmo
 48858726-3d86-4c92-a948-b42633408e66,2023-01-07 03:12:33.706104547+00:00,Gloves,Accessories,99,M,Indigo,Fall,Store Pickup,Yes,Yes,Bank Transfer
 d70549c2-79bf-4b6d-b254-02242d0928b7,2023-11-01 16:26:55.690501996+00:00,Sweater,Clothing,22,M,Red,Spring,Store Pickup,Yes,Yes,PayPal
@@ -1287,7 +1287,7 @@ cfbbf134-3202-40c3-bf42-ba6466c513df,2023-12-12 15:34:07.249687358+00:00,Dress,C
 546c93c9-a85d-499e-87af-75cec398d40c,2023-08-28 21:46:30.905046339+00:00,Gloves,Accessories,99,M,Charcoal,Fall,Next Day Air,Yes,Yes,Bank Transfer
 f309e7de-7954-4845-9612-d0e7e5643549,2023-01-09 06:45:20.163429650+00:00,Gloves,Accessories,49,L,Yellow,Winter,Next Day Air,Yes,Yes,Debit Card
 6283bac0-8ec5-49a3-ac72-4a4c152288a2,2023-12-10 03:49:41.777319239+00:00,Jeans,Clothing,28,XL,Blue,Winter,Standard,Yes,Yes,PayPal
-ba5d6e01-f1e9-42c3-a9b3-7ceeff2dd764,2023-02-25 13:54:00.826427844+00:00,Belt,Accessories,93,XL,Charcoal,Winter,Standard,Yes,Yes,PayPal
+ba5d6e01-f1e9-42c3-a9b3-7ceeff2dd764,2024-02-19 13:54:00.826427844+00:00,Belt,Accessories,93,XL,Charcoal,Winter,Standard,Yes,Yes,PayPal
 a76cae7d-2770-40eb-bb7f-fa64329af429,2023-07-07 14:56:57.685521524+00:00,Jacket,Outerwear,24,M,Red,Fall,Next Day Air,Yes,Yes,PayPal
 82857fd9-98ea-496e-94d3-779ca7f18c98,2023-03-19 09:54:18.156079004+00:00,Skirt,Clothing,35,M,Indigo,Spring,Free Shipping,Yes,Yes,PayPal
 ccb2e019-28d1-4a1b-b327-7cdb940dc6f7,2023-09-01 12:47:26.747227099+00:00,Sandals,Footwear,68,S,Beige,Spring,2-Day Shipping,Yes,Yes,Debit Card
@@ -1446,7 +1446,7 @@ afb18f43-e51b-4b07-a043-dfa8778df3e6,2023-04-22 11:06:25.672543443+00:00,Pants,C
 ca2f1e22-bbfb-4831-bb4c-472d5b095ae7,2023-02-10 15:47:22.516909406+00:00,Sweater,Clothing,36,L,Pink,Fall,Express,Yes,Yes,Cash
 9ffc458b-99c9-4dee-a773-5c6e9e7ba573,2023-09-06 07:58:34.974900058+00:00,Belt,Accessories,51,M,Gold,Fall,2-Day Shipping,Yes,Yes,Credit Card
 b6247356-72d3-4576-9d69-d05f1c65c1da,2023-03-03 00:46:20.394275088+00:00,Jeans,Clothing,35,XL,Red,Summer,Express,Yes,Yes,Credit Card
-52654187-35df-42db-94e6-180345d2af88,2023-02-21 06:13:25.807566574+00:00,Hoodie,Clothing,57,S,Beige,Summer,Next Day Air,Yes,Yes,PayPal
+52654187-35df-42db-94e6-180345d2af88,2024-02-19 06:13:25.807566574+00:00,Hoodie,Clothing,57,S,Beige,Summer,Next Day Air,Yes,Yes,PayPal
 395ce8f9-22f5-4e68-88b0-db9bad9d4086,2023-04-28 14:06:34.190176289+00:00,Boots,Footwear,95,M,Black,Summer,Free Shipping,Yes,Yes,Credit Card
 5f89403f-7d33-441e-8592-c732458a6a48,2023-09-11 14:30:41.531609341+00:00,Socks,Clothing,41,L,Lavender,Winter,Store Pickup,Yes,Yes,Cash
 2e155ce5-572c-40e5-993b-db46e661f785,2023-01-12 12:48:13.229839376+00:00,Dress,Clothing,44,S,Teal,Winter,Free Shipping,Yes,Yes,Cash
@@ -1485,7 +1485,7 @@ c5a000e2-d0c1-4869-9fbd-cd781122e182,2023-05-04 22:15:34.383316852+00:00,Jewelry
 e1590d8d-4ee7-4e9e-a1c5-488da19cc0c6,2023-02-18 17:35:47.940418592+00:00,Jewelry,Accessories,61,S,Yellow,Summer,Next Day Air,Yes,Yes,Debit Card
 10b4dc55-b86c-49c2-a571-f629d51d52d5,2023-03-12 06:24:06.803284515+00:00,Shorts,Clothing,46,M,Teal,Summer,Store Pickup,Yes,Yes,Venmo
 1a8136e7-11ca-472d-810e-108a0ca920e6,2023-09-30 16:40:36.159533101+00:00,Gloves,Accessories,56,L,Red,Spring,Standard,Yes,Yes,Cash
-f42569a3-374a-456b-a056-fc260104eb2d,2023-02-28 11:07:53.393043254+00:00,Sneakers,Footwear,73,S,Yellow,Spring,Free Shipping,Yes,Yes,Venmo
+f42569a3-374a-456b-a056-fc260104eb2d,2024-02-19 11:07:53.393043254+00:00,Sneakers,Footwear,73,S,Yellow,Spring,Free Shipping,Yes,Yes,Venmo
 9ca4a527-619f-4acd-9b67-61206633de03,2023-12-15 12:49:13.250932416+00:00,Skirt,Clothing,44,L,Black,Summer,Store Pickup,Yes,Yes,PayPal
 05162a99-7466-426d-be5f-f2f33b9babc9,2023-12-13 19:59:33.998202528+00:00,Hat,Accessories,44,L,Pink,Winter,Standard,Yes,Yes,Credit Card
 e5387188-20e0-453f-8cfb-7562cfcd2fda,2023-01-08 01:58:35.645584076+00:00,Jewelry,Accessories,26,XL,Magenta,Summer,Next Day Air,Yes,Yes,Venmo
@@ -1502,7 +1502,7 @@ aa647066-0ac0-4e7f-ac35-8977a7a89ce2,2023-02-03 07:20:31.606079318+00:00,Jacket,
 5227412f-1923-4248-8ad1-cdf911d37b3d,2023-09-14 16:44:52.061912752+00:00,Jeans,Clothing,69,L,Maroon,Summer,Next Day Air,Yes,Yes,Debit Card
 71c3abbe-5328-4f37-9ef8-6757bc52ca2b,2023-09-09 01:21:22.793253691+00:00,Jeans,Clothing,55,XL,Silver,Spring,Standard,Yes,Yes,Debit Card
 7e3e220e-c87d-4afc-adbc-c1486a6723ae,2023-11-09 17:45:52.369626369+00:00,Pants,Clothing,66,M,Black,Summer,Store Pickup,Yes,Yes,Cash
-816fc860-9b17-4490-b834-7b0268ba9d57,2023-02-25 00:30:54.763855957+00:00,Jacket,Outerwear,30,M,Maroon,Fall,2-Day Shipping,Yes,Yes,Cash
+816fc860-9b17-4490-b834-7b0268ba9d57,2024-02-19 00:30:54.763855957+00:00,Jacket,Outerwear,30,M,Maroon,Fall,2-Day Shipping,Yes,Yes,Cash
 1cb27bcf-58cb-48af-a935-50b32c4de1b3,2023-06-04 06:43:51.385577974+00:00,Jacket,Outerwear,80,M,Teal,Winter,Next Day Air,Yes,Yes,Bank Transfer
 85891be7-0213-456a-ab12-94d335d09d6a,2023-01-11 11:50:43.181111422+00:00,Belt,Accessories,20,M,Teal,Summer,Express,Yes,Yes,Cash
 36c7236a-30f4-4737-9240-163a675691fd,2023-11-27 06:33:51.545945145+00:00,Shirt,Clothing,30,L,Beige,Fall,2-Day Shipping,Yes,Yes,PayPal
@@ -1533,7 +1533,7 @@ ec0a9cc7-888d-4c8d-9ac0-7774e6549526,2023-02-18 01:30:17.995903861+00:00,Coat,Ou
 f34ba0c4-7385-495e-bd16-7aee81dd0271,2023-12-17 09:15:15.199884226+00:00,Backpack,Accessories,83,S,Violet,Spring,Next Day Air,Yes,Yes,PayPal
 ffd9bf3f-0164-486f-a1cf-559130d911b7,2023-01-03 20:35:51.822174636+00:00,Jacket,Outerwear,46,S,Silver,Winter,Next Day Air,Yes,Yes,PayPal
 395c4751-ac19-4813-bbcb-8034457b8994,2023-07-19 03:25:23.707909117+00:00,Shoes,Footwear,59,M,Gold,Summer,2-Day Shipping,Yes,Yes,Bank Transfer
-ab51dc47-7630-4ad4-8952-22b72792e303,2023-02-25 20:36:30.185220764+00:00,Blouse,Clothing,66,M,Green,Summer,Free Shipping,Yes,Yes,Venmo
+ab51dc47-7630-4ad4-8952-22b72792e303,2024-02-19 20:36:30.185220764+00:00,Blouse,Clothing,66,M,Green,Summer,Free Shipping,Yes,Yes,Venmo
 b29f84d6-d969-4973-af0d-2d4a206e88ab,2023-01-10 09:00:30.380231116+00:00,Sandals,Footwear,74,S,Turquoise,Fall,2-Day Shipping,Yes,Yes,Venmo
 420608da-5358-4475-8259-cdd40ef7d7ad,2023-07-19 01:31:47.947410011+00:00,Sunglasses,Accessories,82,M,Indigo,Summer,Store Pickup,Yes,Yes,Cash
 8e722867-66d3-44e1-9019-effe18efb3b5,2023-07-30 01:26:35.177253413+00:00,Shoes,Footwear,89,L,Black,Spring,Next Day Air,Yes,Yes,Venmo
@@ -1550,7 +1550,7 @@ cb2ab3f7-5ad0-4183-9ffd-4d62a963cc93,2023-11-23 18:29:26.969377500+00:00,Hat,Acc
 e92b6805-1b6d-4c87-97b5-742bb0acd57f,2023-12-18 22:02:05.568585332+00:00,Dress,Clothing,32,M,Silver,Summer,Store Pickup,Yes,Yes,Bank Transfer
 1d8683ce-469f-49eb-9ef8-6eb8dabbc419,2023-10-10 13:51:55.540053297+00:00,Sneakers,Footwear,55,M,Black,Spring,2-Day Shipping,Yes,Yes,Debit Card
 5bef6aa6-5d4a-426d-a05a-26138c064d53,2023-07-19 09:48:32.566743908+00:00,Sunglasses,Accessories,26,S,Black,Summer,Free Shipping,Yes,Yes,Bank Transfer
-43823209-4d9f-49ad-a23d-34f0f598fc6d,2023-02-22 17:55:54.485834493+00:00,Handbag,Accessories,29,M,Olive,Summer,2-Day Shipping,Yes,Yes,Credit Card
+43823209-4d9f-49ad-a23d-34f0f598fc6d,2024-02-19 17:55:54.485834493+00:00,Handbag,Accessories,29,M,Olive,Summer,2-Day Shipping,Yes,Yes,Credit Card
 d5b3c93e-9af2-498f-acf8-66d0f98cd70e,2023-12-27 21:47:45.189669773+00:00,Blouse,Clothing,49,L,Purple,Spring,Express,Yes,Yes,Credit Card
 1f9b0fed-83e2-4e20-9fea-46eae2432b47,2023-10-26 19:48:57.776284091+00:00,Blouse,Clothing,45,M,Indigo,Spring,Free Shipping,Yes,Yes,Debit Card
 28f6fe1f-1b16-47d0-b2fc-89dda7ad86f9,2023-03-13 04:47:25.890783435+00:00,Shorts,Clothing,48,S,Lavender,Winter,Standard,Yes,Yes,Cash
@@ -1570,7 +1570,7 @@ d94e6e7d-8cc5-4b93-9173-25f829f5685c,2023-07-04 14:58:02.474276481+00:00,Backpac
 42c32f28-6017-4a1b-aa5d-bed85bda2bc0,2023-04-14 22:56:41.822432693+00:00,Sneakers,Footwear,76,L,Yellow,Spring,Store Pickup,Yes,Yes,Debit Card
 302200a6-afd2-4bf2-add7-8bf320a6821b,2023-06-23 13:58:35.343791288+00:00,Skirt,Clothing,63,M,Orange,Summer,Standard,Yes,Yes,Debit Card
 64f563f0-1327-4684-805e-6440061cbc2e,2023-08-26 17:19:45.264833910+00:00,Pants,Clothing,41,L,Brown,Winter,Next Day Air,Yes,Yes,Bank Transfer
-e4743c7b-08d0-4323-9af2-ce66d2d848f7,2023-02-20 13:38:19.252414058+00:00,Jewelry,Accessories,88,L,Silver,Winter,Next Day Air,Yes,Yes,Bank Transfer
+e4743c7b-08d0-4323-9af2-ce66d2d848f7,2024-02-19 13:38:19.252414058+00:00,Jewelry,Accessories,88,L,Silver,Winter,Next Day Air,Yes,Yes,Bank Transfer
 b906c1eb-5211-4c82-9370-8396434389d5,2023-09-10 03:52:04.166849452+00:00,Skirt,Clothing,92,L,White,Summer,2-Day Shipping,Yes,Yes,Debit Card
 3ec1b23e-5bad-492a-8553-6e049e607597,2023-06-04 21:28:27.072161574+00:00,T-shirt,Clothing,31,L,Indigo,Summer,2-Day Shipping,Yes,Yes,Debit Card
 a2ca70c6-43d6-4763-9874-dc37b2e83270,2023-03-06 23:19:48.390190641+00:00,Skirt,Clothing,25,S,Magenta,Spring,Free Shipping,Yes,Yes,PayPal
@@ -1578,7 +1578,7 @@ a2ca70c6-43d6-4763-9874-dc37b2e83270,2023-03-06 23:19:48.390190641+00:00,Skirt,C
 8fcdba64-a76f-4729-a929-e774dbe69a29,2023-09-27 14:48:25.131922110+00:00,Dress,Clothing,75,M,White,Spring,2-Day Shipping,Yes,Yes,PayPal
 cfcec573-f234-427a-9684-42998787062b,2023-05-08 08:13:58.980352859+00:00,Boots,Footwear,34,S,Olive,Spring,Standard,Yes,Yes,Venmo
 d10853c7-8a9c-438c-a918-b1f038404904,2023-08-04 05:53:44.142191205+00:00,Pants,Clothing,97,S,Maroon,Winter,2-Day Shipping,Yes,Yes,PayPal
-ea3d2e4c-e119-4cdd-b112-fa3afc411fe3,2023-02-28 11:37:14.004540655+00:00,Jacket,Outerwear,80,M,Violet,Summer,Free Shipping,Yes,Yes,Bank Transfer
+ea3d2e4c-e119-4cdd-b112-fa3afc411fe3,2024-02-19 11:37:14.004540655+00:00,Jacket,Outerwear,80,M,Violet,Summer,Free Shipping,Yes,Yes,Bank Transfer
 76b6613a-7524-484f-8bb1-c5cd4a605b35,2023-03-01 21:52:24.536434602+00:00,Sneakers,Footwear,71,L,Cyan,Summer,Standard,Yes,Yes,Cash
 3bef57a8-2502-40f1-bb55-e0ef21ea4335,2023-06-07 12:40:26.627769056+00:00,Jewelry,Accessories,77,L,Teal,Fall,Free Shipping,Yes,Yes,Cash
 0a5790d6-0695-46f0-b2f7-4c87b49f9dd2,2023-06-10 03:48:11.543718200+00:00,Belt,Accessories,41,L,Red,Spring,Next Day Air,Yes,Yes,Cash
@@ -1592,7 +1592,7 @@ b1f85da1-d789-4ad4-8771-f8c02db1b2ac,2023-09-27 07:29:15.364770073+00:00,Sneaker
 5c2a3ac7-19c9-4da6-b20d-038a8564b882,2023-05-24 10:05:09.903079824+00:00,Jeans,Clothing,80,S,Pink,Winter,Free Shipping,Yes,Yes,PayPal
 e8ef0c8e-2f4b-40f4-96da-9d4b29216010,2023-12-02 08:31:47.841368328+00:00,Skirt,Clothing,100,L,Gold,Winter,Next Day Air,Yes,Yes,PayPal
 f7e770b8-d6e8-47d8-ac07-446634a3072d,2023-12-04 11:15:31.449607948+00:00,Shoes,Footwear,83,M,Cyan,Summer,Free Shipping,Yes,Yes,Bank Transfer
-3e7e77eb-b129-4445-9736-5d5ed6b11afd,2023-02-22 22:11:52.053798599+00:00,Dress,Clothing,95,M,Black,Spring,2-Day Shipping,Yes,Yes,Bank Transfer
+3e7e77eb-b129-4445-9736-5d5ed6b11afd,2024-02-19 22:11:52.053798599+00:00,Dress,Clothing,95,M,Black,Spring,2-Day Shipping,Yes,Yes,Bank Transfer
 1f7fb8c4-843f-4ed6-8657-982b2941f3df,2023-06-14 19:37:18.409177855+00:00,Handbag,Accessories,41,XL,Charcoal,Summer,Store Pickup,Yes,Yes,Cash
 aa239d8f-ddc9-45cb-bd48-26fe7c08812a,2023-05-26 02:42:59.326125927+00:00,Backpack,Accessories,35,S,Magenta,Spring,Standard,Yes,Yes,Debit Card
 63b464ae-527a-484e-85c0-eaf5fa90c2df,2023-05-31 01:20:56.125410204+00:00,Jewelry,Accessories,30,S,Pink,Fall,Store Pickup,Yes,Yes,Debit Card
@@ -1760,7 +1760,7 @@ fe2380e5-0c58-4b12-9d5d-7507f06b43f7,2023-01-11 10:33:11.928397067+00:00,Belt,Ac
 953c7963-9897-4a14-b1a1-5f2c39178361,2023-05-11 01:07:49.259517229+00:00,Hat,Accessories,56,M,Silver,Winter,Free Shipping,No,No,Venmo
 d781be55-7097-4102-a98a-f541b163f7c5,2023-01-16 11:18:00.892979137+00:00,Sweater,Clothing,58,L,Green,Spring,Next Day Air,No,No,PayPal
 6c1ae8fd-4b9d-4cdd-9fa5-4ecd9e32579c,2023-01-19 21:29:34.322204884+00:00,Skirt,Clothing,44,XL,Peach,Spring,Standard,No,No,PayPal
-3dd9a842-31f5-4c62-8f00-9bb732a0eda0,2023-02-22 23:04:42.344895941+00:00,Hoodie,Clothing,95,S,Green,Fall,2-Day Shipping,No,No,Cash
+3dd9a842-31f5-4c62-8f00-9bb732a0eda0,2024-02-19 23:04:42.344895941+00:00,Hoodie,Clothing,95,S,Green,Fall,2-Day Shipping,No,No,Cash
 037ec87b-2a84-49fc-ad6c-34d22abb07de,2023-05-31 16:37:22.323686500+00:00,Sandals,Footwear,42,M,Brown,Summer,Express,No,No,Bank Transfer
 541c0dfe-0fe5-4878-bd87-c1d4e19ef234,2023-04-18 12:55:39.491805516+00:00,Jewelry,Accessories,93,M,Lavender,Winter,Store Pickup,No,No,PayPal
 085e7974-34ce-407e-bd6d-20ff818e191e,2023-07-28 13:51:36.709408012+00:00,Dress,Clothing,56,M,Charcoal,Summer,Store Pickup,No,No,Venmo
@@ -1863,7 +1863,7 @@ b5f02e9f-db69-4416-b15d-e174ba2db642,2023-04-01 12:29:31.823259445+00:00,Belt,Ac
 e2ca709f-8897-47bd-a8e7-ed3c5406c8f4,2023-12-19 09:55:39.296416066+00:00,Sneakers,Footwear,60,S,Peach,Fall,Standard,No,No,Debit Card
 b2a4358d-bc75-4d4a-9eb0-b537f9ba7e19,2023-01-02 22:20:04.915322537+00:00,Gloves,Accessories,36,M,Turquoise,Winter,Express,No,No,PayPal
 c8e558ba-42af-4410-ade2-5aca290613e0,2023-09-06 14:34:30.192939608+00:00,Sandals,Footwear,21,L,Orange,Spring,2-Day Shipping,No,No,Debit Card
-db506e38-a748-4715-a0ab-7868a039fff7,2023-02-21 05:23:37.076845654+00:00,Backpack,Accessories,72,S,Cyan,Fall,2-Day Shipping,No,No,Venmo
+db506e38-a748-4715-a0ab-7868a039fff7,2024-02-19 05:23:37.076845654+00:00,Backpack,Accessories,72,S,Cyan,Fall,2-Day Shipping,No,No,Venmo
 10d9fa0c-4c0a-499c-8dfc-100305b2288f,2023-03-28 14:06:38.755688052+00:00,Pants,Clothing,62,S,Silver,Summer,Store Pickup,No,No,Bank Transfer
 fafcdecb-b334-47fb-ae41-0c42529599aa,2023-02-05 12:02:41.737003718+00:00,T-shirt,Clothing,44,XL,Gold,Winter,Standard,No,No,Credit Card
 4d790674-b4ca-4df6-8cef-4176d104c286,2023-07-28 19:50:05.715161208+00:00,Skirt,Clothing,52,M,Brown,Fall,2-Day Shipping,No,No,Venmo
@@ -1892,7 +1892,7 @@ c2f80e73-2b94-4781-a92b-12a1c5ba777d,2023-01-19 16:36:29.803491520+00:00,Skirt,C
 6ceea39e-925d-43ab-848f-ff1dbeca8a66,2023-03-01 19:48:52.468874176+00:00,Sunglasses,Accessories,57,M,Lavender,Spring,Store Pickup,No,No,Credit Card
 fa7f79a7-a7ae-4b17-9834-e799ec483b7c,2023-01-02 13:17:30.841102574+00:00,Jewelry,Accessories,74,M,Gray,Summer,Next Day Air,No,No,Debit Card
 dbf8df09-2ec2-43ab-9906-5fd7843c585b,2023-08-27 13:03:04.836082974+00:00,Jacket,Outerwear,30,M,Blue,Fall,2-Day Shipping,No,No,Venmo
-c381638e-b5d1-4978-83eb-b19e763c6890,2023-02-22 14:11:08.456551770+00:00,Dress,Clothing,20,L,Red,Summer,Express,No,No,PayPal
+c381638e-b5d1-4978-83eb-b19e763c6890,2024-02-19 14:11:08.456551770+00:00,Dress,Clothing,20,L,Red,Summer,Express,No,No,PayPal
 ba8246ed-bb00-477c-b191-858d28ad9f06,2023-11-05 23:32:52.763635612+00:00,Hoodie,Clothing,90,M,Purple,Fall,Free Shipping,No,No,Debit Card
 249d28ca-3700-4450-a12d-a2ec54bfef05,2023-10-06 03:26:30.290305222+00:00,Jeans,Clothing,61,L,Indigo,Fall,Express,No,No,Debit Card
 bba1712a-a8e8-4384-88e1-82a64c6352b5,2023-04-03 00:29:28.525149271+00:00,Sandals,Footwear,51,M,Gold,Fall,Standard,No,No,Venmo
@@ -1904,10 +1904,10 @@ e71fc08e-9b4d-43cc-8969-c49d3900444e,2023-06-26 00:20:57.733903590+00:00,Socks,C
 f35e90d4-0e0c-4030-8828-44a9d8010522,2023-06-19 05:58:14.685858228+00:00,Sandals,Footwear,22,S,Olive,Spring,Store Pickup,No,No,Venmo
 132fd0bb-b952-49c3-bfbb-0b1586b07417,2023-06-16 11:38:08.186014579+00:00,Pants,Clothing,63,M,Gold,Summer,Standard,No,No,Bank Transfer
 121069cf-ce11-45e1-a5ca-b21fbc0fdcce,2023-07-14 13:12:40.705891652+00:00,T-shirt,Clothing,71,S,Silver,Spring,Free Shipping,No,No,Cash
-feb253c7-647c-4553-a5b9-05b2e0bb1cf1,2023-02-26 03:29:40.558170902+00:00,Boots,Footwear,35,M,Teal,Summer,2-Day Shipping,No,No,Bank Transfer
+feb253c7-647c-4553-a5b9-05b2e0bb1cf1,2024-02-19 03:29:40.558170902+00:00,Boots,Footwear,35,M,Teal,Summer,2-Day Shipping,No,No,Bank Transfer
 9118b996-cc54-4e3b-a559-d10efe8d6950,2023-11-04 19:59:29.466734246+00:00,Backpack,Accessories,30,M,Green,Spring,2-Day Shipping,No,No,PayPal
 69a427ae-9749-4d0c-a5b7-b33ae3769215,2023-06-26 22:09:51.732061719+00:00,Skirt,Clothing,74,L,Orange,Fall,Store Pickup,No,No,Credit Card
-c6d26bfe-1fcf-4f2f-942b-64a484546db7,2023-02-23 17:29:38.367157953+00:00,Scarf,Accessories,71,XL,Charcoal,Winter,Next Day Air,No,No,Debit Card
+c6d26bfe-1fcf-4f2f-942b-64a484546db7,2024-02-19 17:29:38.367157953+00:00,Scarf,Accessories,71,XL,Charcoal,Winter,Next Day Air,No,No,Debit Card
 2671bdb8-eb24-428f-bd3a-700ff749e575,2023-05-18 13:48:08.434541012+00:00,Sweater,Clothing,84,S,Black,Spring,Store Pickup,No,No,Credit Card
 cabfcdc9-53b5-42bd-a758-e604aa608090,2023-09-14 16:15:52.111327136+00:00,Sandals,Footwear,38,S,Yellow,Fall,Express,No,No,Debit Card
 3721c2c3-abcd-4b5f-bf73-81bde841047c,2023-09-07 05:21:31.065064074+00:00,Jewelry,Accessories,81,M,Gray,Spring,Express,No,No,Debit Card
@@ -1954,7 +1954,7 @@ ac7ed067-bb84-44a8-be4f-11725add01d0,2023-03-06 17:39:40.192574198+00:00,Shirt,C
 459a6c91-04ae-4a63-aa43-2fc52d7904c0,2023-11-18 14:27:47.209962139+00:00,Shoes,Footwear,82,L,Yellow,Summer,2-Day Shipping,No,No,Cash
 7aafc018-fc6f-4e5f-a14d-0b737e3482fc,2023-08-12 04:02:46.744197779+00:00,Skirt,Clothing,33,XL,Green,Spring,Standard,No,No,PayPal
 d1cb02f3-7403-42ab-a6cc-2b0c72b3ea85,2023-06-05 03:05:27.423521680+00:00,Gloves,Accessories,77,M,Pink,Winter,Free Shipping,No,No,Venmo
-b100b3ea-f608-4141-92d6-e3695bc3e362,2023-02-19 07:39:01.885054070+00:00,Hoodie,Clothing,56,M,Pink,Winter,Express,No,No,Cash
+b100b3ea-f608-4141-92d6-e3695bc3e362,2024-02-19 07:39:01.885054070+00:00,Hoodie,Clothing,56,M,Pink,Winter,Express,No,No,Cash
 c2a00a24-92b9-4d1c-b2d4-851dfca2fab5,2023-12-14 02:02:30.871232967+00:00,Socks,Clothing,37,M,Pink,Winter,Express,No,No,Credit Card
 0c26bb6b-5e14-4c0d-84df-f42a63e39cde,2023-04-09 07:50:23.893560110+00:00,Gloves,Accessories,54,M,Cyan,Spring,Store Pickup,No,No,Cash
 593932c8-137e-4b7d-8ed0-503ed83f141b,2023-05-04 06:57:24.168804665+00:00,Shorts,Clothing,67,M,Gray,Winter,Store Pickup,No,No,Cash
@@ -1984,7 +1984,7 @@ e31defc6-28a0-45cc-a69b-c070e06c2371,2023-12-15 04:00:09.597719243+00:00,Sandals
 ea07a9e5-9b07-4186-937c-a93b57ffa39d,2023-05-09 22:46:34.139641830+00:00,Sunglasses,Accessories,77,M,Turquoise,Summer,2-Day Shipping,No,No,PayPal
 ac1cf6a0-42a5-43ae-89bb-28ad1a9af0b5,2023-12-12 08:45:32.867995199+00:00,Scarf,Accessories,97,M,Pink,Summer,Next Day Air,No,No,Debit Card
 0b424b21-7993-4207-925a-3b23a0e6589a,2023-01-12 21:17:11.436449235+00:00,Skirt,Clothing,58,M,Black,Summer,2-Day Shipping,No,No,PayPal
-4750d6bd-220d-4af4-bb47-51235e098ef0,2023-02-21 19:58:17.280451898+00:00,Gloves,Accessories,97,M,Gold,Spring,2-Day Shipping,No,No,Credit Card
+4750d6bd-220d-4af4-bb47-51235e098ef0,2024-02-19 19:58:17.280451898+00:00,Gloves,Accessories,97,M,Gold,Spring,2-Day Shipping,No,No,Credit Card
 a0ee3226-ca3c-455d-aad1-6e11e10584eb,2023-08-28 21:52:13.981269207+00:00,Coat,Outerwear,48,L,Green,Summer,2-Day Shipping,No,No,Venmo
 26689a71-3123-4b50-ab8f-f8507a7e7ddd,2023-01-29 18:56:57.776756270+00:00,Belt,Accessories,23,XL,White,Summer,Express,No,No,Cash
 58f267af-31dd-45d0-839e-8217b12a86e7,2023-04-15 01:08:58.333063228+00:00,Pants,Clothing,79,M,Gold,Winter,Free Shipping,No,No,Bank Transfer
@@ -1994,7 +1994,7 @@ d9e7a503-e3ac-466b-befa-8377a6c1e754,2023-12-10 21:26:20.233725059+00:00,Sneaker
 2210a8b9-7669-4a4a-b68a-0e46015ca9ee,2023-06-14 21:08:36.493596230+00:00,Hoodie,Clothing,98,L,Gold,Winter,2-Day Shipping,No,No,Venmo
 fff6401d-92ef-4353-ab49-c983b0800c38,2023-01-25 13:56:40.487384261+00:00,Blouse,Clothing,96,S,Purple,Spring,Express,No,No,Cash
 01375e63-468e-4ca7-9875-30f18c846cd0,2023-10-22 14:55:18.976668288+00:00,Sunglasses,Accessories,66,M,Brown,Fall,Next Day Air,No,No,Credit Card
-c83c4c4f-3758-43c9-9d51-976872c98ad8,2023-02-25 04:27:21.640024283+00:00,Boots,Footwear,80,S,Teal,Spring,Standard,No,No,Debit Card
+c83c4c4f-3758-43c9-9d51-976872c98ad8,2024-02-19 04:27:21.640024283+00:00,Boots,Footwear,80,S,Teal,Spring,Standard,No,No,Debit Card
 66965ad6-e802-43e7-adff-24fbb46dfc4c,2023-09-08 15:26:34.235290667+00:00,Sneakers,Footwear,27,L,Indigo,Summer,Next Day Air,No,No,Cash
 334c5833-2e87-4e1d-b493-3338bbeac28e,2023-01-21 21:15:25.699631352+00:00,Backpack,Accessories,25,M,Purple,Fall,Express,No,No,Debit Card
 bf147b6b-5d8b-4ca0-ac2d-c551b66bf714,2023-10-27 19:15:28.849076071+00:00,Pants,Clothing,45,M,Orange,Fall,2-Day Shipping,No,No,Cash
@@ -2038,7 +2038,7 @@ edfbe367-babc-4199-b243-d185078fcc0a,2023-09-05 06:14:00.186093195+00:00,Jeans,C
 ae873c8f-beda-427b-843c-756c75fc1300,2023-12-13 06:21:33.660962642+00:00,Blouse,Clothing,63,S,Lavender,Winter,Next Day Air,No,No,Cash
 727d3ac1-b18a-4f95-b9d8-bc67d7bd2c3e,2023-03-13 20:31:53.667413913+00:00,Belt,Accessories,87,S,Green,Summer,Express,No,No,Venmo
 ed33bd17-906c-48c2-86a5-e0ff8f09f288,2023-10-18 07:21:27.254713122+00:00,Blouse,Clothing,70,L,Orange,Spring,Next Day Air,No,No,Credit Card
-7216510b-b34d-4a6e-97f0-7dc0eace8ccc,2023-02-20 05:13:52.712947111+00:00,T-shirt,Clothing,51,M,Olive,Spring,Next Day Air,No,No,Debit Card
+7216510b-b34d-4a6e-97f0-7dc0eace8ccc,2024-02-19 05:13:52.712947111+00:00,T-shirt,Clothing,51,M,Olive,Spring,Next Day Air,No,No,Debit Card
 74ef14ca-1645-45fd-bd04-552dee83ac9a,2023-04-08 12:59:02.168113699+00:00,Jewelry,Accessories,25,XL,Gray,Spring,Free Shipping,No,No,Venmo
 4ec92d51-4e6d-4ad3-ba65-cceaf51ab66f,2023-02-27 00:37:06.407133838+00:00,Jacket,Outerwear,32,S,Lavender,Winter,Next Day Air,No,No,PayPal
 99afa2b2-f9f5-4932-afe2-de3570d6f1ff,2023-09-29 07:46:29.523016405+00:00,Shoes,Footwear,52,M,Red,Spring,2-Day Shipping,No,No,Venmo
@@ -2047,7 +2047,7 @@ d340a851-8d14-43ea-af89-30b40fb0b469,2023-01-09 17:43:40.883349840+00:00,Jeans,C
 0b83e78c-a785-4a61-8677-491bd0b30abe,2023-07-06 19:43:57.529738287+00:00,Jewelry,Accessories,20,M,Red,Fall,Express,No,No,PayPal
 890dc2ac-144d-4738-a447-bb86758d1bcc,2023-04-11 14:30:36.529630183+00:00,Pants,Clothing,32,M,Maroon,Winter,Free Shipping,No,No,Cash
 3168d55b-4bbc-4fab-908f-b37bfae24250,2023-01-06 22:10:17.852696626+00:00,Jewelry,Accessories,82,M,Silver,Summer,Store Pickup,No,No,Cash
-b6442180-a264-49e8-8d85-a98759118eac,2023-02-24 06:45:26.321855853+00:00,Sneakers,Footwear,64,XL,Pink,Winter,Express,No,No,Bank Transfer
+b6442180-a264-49e8-8d85-a98759118eac,2024-02-19 06:45:26.321855853+00:00,Sneakers,Footwear,64,XL,Pink,Winter,Express,No,No,Bank Transfer
 13ca5d43-7a6c-4cf7-b18f-0c69d2ebb617,2023-05-07 16:25:46.417811289+00:00,Boots,Footwear,24,L,Blue,Fall,Standard,No,No,Venmo
 8e693771-55bb-4aba-b8fd-c293b8feae0e,2023-11-22 08:22:35.107110049+00:00,Hat,Accessories,96,M,Teal,Summer,Store Pickup,No,No,Debit Card
 beb1c4af-8971-4993-9bdb-6ae42065ffcc,2023-02-10 22:36:14.234859011+00:00,T-shirt,Clothing,94,L,Black,Spring,Free Shipping,No,No,Credit Card
@@ -2065,7 +2065,7 @@ bfda4dab-bfe4-4e28-a43b-4bfdc92b1f76,2023-09-24 01:07:30.592654871+00:00,Sweater
 3af6b6a5-a3ea-49b5-a922-3ce746febd2a,2023-04-20 20:12:21.852046391+00:00,Shorts,Clothing,86,M,Cyan,Fall,Standard,No,No,Cash
 77cbc8d1-ed6c-469f-adda-40c28e15e9e3,2023-12-04 10:34:46.039286381+00:00,Shoes,Footwear,99,M,Green,Summer,2-Day Shipping,No,No,Bank Transfer
 3f4fe788-030e-4042-b17f-06c631d299f5,2023-11-26 15:40:16.981560677+00:00,Sneakers,Footwear,40,M,Blue,Spring,Free Shipping,No,No,Bank Transfer
-da352d4b-1c17-43d9-8087-3df4f0888ed2,2023-02-22 23:50:52.525791729+00:00,Sneakers,Footwear,92,M,Olive,Fall,Store Pickup,No,No,Debit Card
+da352d4b-1c17-43d9-8087-3df4f0888ed2,2024-02-19 23:50:52.525791729+00:00,Sneakers,Footwear,92,M,Olive,Fall,Store Pickup,No,No,Debit Card
 fb969c66-3b0b-4f1b-98cf-55b95a4ad0f7,2023-08-13 01:38:17.817522976+00:00,Pants,Clothing,21,XL,Beige,Fall,2-Day Shipping,No,No,Cash
 97d0a675-26f3-4393-99a6-5c40bff50834,2023-01-30 07:06:10.352048568+00:00,Jewelry,Accessories,81,XL,Black,Summer,Store Pickup,No,No,Venmo
 09a41b48-43f3-40ec-9f04-4149219f0ce8,2023-05-20 07:43:03.067608965+00:00,T-shirt,Clothing,82,M,Indigo,Fall,Free Shipping,No,No,Debit Card
@@ -2085,7 +2085,7 @@ f9dfcada-e81f-4380-930c-925d51e76f56,2023-08-03 13:32:27.737777620+00:00,Jeans,C
 427e4971-ca4c-48f7-93e1-8e59ef9254e4,2023-09-21 10:39:21.551925921+00:00,Scarf,Accessories,59,L,Orange,Fall,Store Pickup,No,No,Credit Card
 c9845622-49a8-40eb-b0a0-57a210bbc793,2023-02-08 20:14:41.129004130+00:00,Blouse,Clothing,94,S,Brown,Summer,Standard,No,No,Bank Transfer
 656c7eae-6fbc-443a-92b3-d53de3928db4,2023-04-24 23:36:39.107780865+00:00,Jeans,Clothing,49,M,Teal,Fall,Free Shipping,No,No,Debit Card
-b318f4d8-15eb-41f7-a993-293583ebe556,2023-02-21 04:49:31.179880226+00:00,Dress,Clothing,89,L,Beige,Summer,2-Day Shipping,No,No,Cash
+b318f4d8-15eb-41f7-a993-293583ebe556,2024-02-19 04:49:31.179880226+00:00,Dress,Clothing,89,L,Beige,Summer,2-Day Shipping,No,No,Cash
 9974ea59-74dc-40e7-9255-a3e7d9eb2282,2023-04-21 12:02:43.974322760+00:00,Hat,Accessories,91,M,Blue,Summer,Standard,No,No,Credit Card
 7b3d60d4-cb9d-4d08-8cc7-06d264ef52b1,2023-03-06 14:32:19.007652531+00:00,Sandals,Footwear,89,L,Orange,Spring,Standard,No,No,Debit Card
 25ed3d53-534a-4fe5-8885-1081008da2d6,2023-11-08 02:54:46.166537988+00:00,Jacket,Outerwear,57,L,Gold,Spring,Free Shipping,No,No,Credit Card
@@ -2104,7 +2104,7 @@ e064be1b-e25e-4087-bf6d-5968ae49c0d5,2023-03-23 04:00:03.489478505+00:00,Shirt,C
 8c5e73f6-b842-4b3e-9451-758b97b6047c,2023-08-24 21:16:41.972473065+00:00,Hat,Accessories,25,M,Brown,Spring,Store Pickup,No,No,Cash
 d095d8f4-d255-4f94-ba7a-1fd33ce9e1a7,2023-01-26 17:22:20.600324912+00:00,Pants,Clothing,86,S,Red,Summer,Store Pickup,No,No,Venmo
 2c25cc19-0117-4776-aa79-c4b042778532,2023-06-26 00:24:24.447539915+00:00,Shoes,Footwear,88,M,Gold,Spring,Free Shipping,No,No,Venmo
-3f53e847-75ba-4f9c-81d6-57c33beffcc2,2023-02-23 17:15:25.374741338+00:00,Gloves,Accessories,35,M,Silver,Spring,Free Shipping,No,No,Venmo
+3f53e847-75ba-4f9c-81d6-57c33beffcc2,2024-02-19 17:15:25.374741338+00:00,Gloves,Accessories,35,M,Silver,Spring,Free Shipping,No,No,Venmo
 be6730bd-773c-49e1-b0a3-eeebb7af3924,2023-05-17 07:02:08.700499494+00:00,Jewelry,Accessories,34,M,Gray,Fall,Standard,No,No,Credit Card
 fb3ac33f-6479-4d78-931c-426f381b7b50,2023-05-11 01:38:43.076600896+00:00,Pants,Clothing,75,M,Black,Winter,Standard,No,No,PayPal
 5f7c888c-df79-4968-b549-53b62b46f5af,2023-01-15 09:31:59.575055652+00:00,Hoodie,Clothing,46,XL,Beige,Winter,Express,No,No,Credit Card
@@ -2135,7 +2135,7 @@ bdb1b228-59f6-48e5-8728-557b4e460ede,2023-01-25 18:52:16.971960524+00:00,Skirt,C
 c6a16d71-e0d1-4468-9171-77d8cc9e5952,2023-07-28 16:53:12.317151760+00:00,Hat,Accessories,34,M,Olive,Summer,Standard,No,No,Bank Transfer
 8bf292be-4c27-418a-a527-ce3f04af6606,2023-11-10 03:20:02.441218490+00:00,Sandals,Footwear,41,XL,Maroon,Winter,Standard,No,No,Credit Card
 9d17e9a5-a4fc-4d13-a405-86b7bd5e7faf,2023-06-12 20:42:04.953444180+00:00,Sunglasses,Accessories,94,S,Yellow,Winter,Next Day Air,No,No,Debit Card
-dd50a2b2-7a15-41db-acde-fb40e1c79254,2023-02-25 06:14:22.355569159+00:00,Sunglasses,Accessories,93,M,Red,Summer,Standard,No,No,Bank Transfer
+dd50a2b2-7a15-41db-acde-fb40e1c79254,2024-02-19 06:14:22.355569159+00:00,Sunglasses,Accessories,93,M,Red,Summer,Standard,No,No,Bank Transfer
 f653da41-d8d4-4771-a545-c404d4ace279,2023-09-26 06:57:41.598506294+00:00,Socks,Clothing,51,XL,Purple,Winter,2-Day Shipping,No,No,Credit Card
 4e62c018-2125-4cd9-9df0-d79d4b3f1b7b,2023-12-30 19:48:58.654080074+00:00,Sweater,Clothing,42,M,Teal,Fall,Next Day Air,No,No,Venmo
 55cd9c25-4067-4f90-95e7-16cc17a8a2a0,2023-01-28 22:30:03.587457899+00:00,Boots,Footwear,95,M,Red,Winter,Free Shipping,No,No,Cash
@@ -2175,7 +2175,7 @@ ae0d0834-20c6-4c60-8bf5-e34baae5f2c9,2023-10-26 17:26:45.953863994+00:00,Pants,C
 9da14967-8d58-4973-9ccc-3cf463e34faf,2023-11-02 23:34:42.426999062+00:00,Gloves,Accessories,97,S,Cyan,Summer,2-Day Shipping,No,No,Venmo
 432e0762-688d-4b45-a521-9ff4693b144f,2023-05-13 01:35:00.442930964+00:00,Backpack,Accessories,49,S,Olive,Spring,Store Pickup,No,No,Cash
 88734ff1-cc9b-4c13-8b13-2ae717725fd7,2023-11-10 21:37:07.110202380+00:00,Dress,Clothing,50,M,Silver,Spring,Free Shipping,No,No,Credit Card
-75d0a47a-85e3-4b71-98cc-8e7da161dc4f,2023-02-28 02:58:01.195216895+00:00,Belt,Accessories,91,S,Red,Winter,2-Day Shipping,No,No,Debit Card
+75d0a47a-85e3-4b71-98cc-8e7da161dc4f,2024-02-19 02:58:01.195216895+00:00,Belt,Accessories,91,S,Red,Winter,2-Day Shipping,No,No,Debit Card
 9a74475e-5bc4-4912-9136-bdae424c3fa8,2023-05-28 10:20:17.067555326+00:00,Gloves,Accessories,93,XL,Green,Winter,Express,No,No,PayPal
 0a2fa994-1ceb-4b6b-9a2d-0e822f4d1a1c,2023-06-03 09:43:37.220917926+00:00,Jewelry,Accessories,98,M,Gold,Summer,Standard,No,No,Venmo
 b7ce3719-d611-4a86-b9d8-c1e88f3094fe,2023-11-20 01:06:12.476232796+00:00,Socks,Clothing,82,L,Lavender,Fall,Next Day Air,No,No,PayPal
@@ -2247,7 +2247,7 @@ ea704a0d-106f-4d8c-b5fd-b59bbfb3f88a,2023-03-13 03:26:30.959927578+00:00,Shorts,
 b2ed54e7-1ea1-440f-8f4f-947353b6c16e,2023-04-21 15:23:31.700458551+00:00,Socks,Clothing,90,L,Gray,Fall,Free Shipping,No,No,PayPal
 595fccee-0ba6-4900-9862-7887a8849fb3,2023-03-31 01:09:18.849579545+00:00,Jacket,Outerwear,96,M,Cyan,Fall,Store Pickup,No,No,PayPal
 12a35c41-5bf4-46c1-a4cb-11749a3ea075,2023-03-27 02:50:50.007902966+00:00,Jewelry,Accessories,37,L,Teal,Summer,Next Day Air,No,No,Venmo
-2b48bceb-765c-4266-8a8c-8b9ce5fc0fad,2023-02-19 23:11:31.031037496+00:00,T-shirt,Clothing,66,M,Violet,Winter,Free Shipping,No,No,PayPal
+2b48bceb-765c-4266-8a8c-8b9ce5fc0fad,2024-02-19 23:11:31.031037496+00:00,T-shirt,Clothing,66,M,Violet,Winter,Free Shipping,No,No,PayPal
 301b46c6-893c-4d7e-af41-f8a9c8379605,2023-01-08 01:58:01.973553110+00:00,Gloves,Accessories,45,XL,Indigo,Spring,Next Day Air,No,No,Debit Card
 74fdd22e-7641-4ffb-8f7e-411683a3a7dc,2023-03-31 10:51:31.674499323+00:00,Shoes,Footwear,89,L,Pink,Summer,Store Pickup,No,No,Credit Card
 6c22ed40-b5e7-4686-8b1f-194430863bea,2023-04-06 11:31:16.672961688+00:00,Shoes,Footwear,94,L,Gold,Fall,Free Shipping,No,No,Debit Card
@@ -2291,7 +2291,7 @@ eb5d240a-665e-406c-a834-ef58dc76b35c,2023-11-05 00:24:12.184058792+00:00,Blouse,
 e47e6a4d-c8f1-45bc-bac7-641635181ec5,2023-03-31 10:57:39.900729765+00:00,Shorts,Clothing,82,M,Orange,Fall,Free Shipping,No,No,Venmo
 0232e8c7-9c55-46c7-beb2-3bd2533513b6,2023-04-05 14:47:48.875873263+00:00,Boots,Footwear,48,L,Magenta,Winter,Standard,No,No,PayPal
 fe937246-40d7-4483-b2cd-dd6497b3f7b5,2023-12-03 00:54:16.997490927+00:00,Coat,Outerwear,30,M,Indigo,Spring,2-Day Shipping,No,No,Credit Card
-04ab1008-c933-49fe-9756-0d471c326f8f,2023-02-22 01:14:15.952367060+00:00,T-shirt,Clothing,34,S,Beige,Spring,Next Day Air,No,No,Debit Card
+04ab1008-c933-49fe-9756-0d471c326f8f,2024-02-19 01:14:15.952367060+00:00,T-shirt,Clothing,34,S,Beige,Spring,Next Day Air,No,No,Debit Card
 4bca7cfe-fd19-41c5-8426-0dee79e84fee,2023-07-01 19:10:45.814727993+00:00,Sweater,Clothing,68,L,Green,Fall,Express,No,No,Debit Card
 268784e5-1fff-4800-909a-e8a8a2c1db36,2023-03-27 00:34:03.223545358+00:00,Sunglasses,Accessories,95,M,Red,Winter,Express,No,No,Debit Card
 80326b22-bdf1-4070-8f4b-2987ff26da0b,2023-11-23 15:41:36.789373735+00:00,Hat,Accessories,22,L,Beige,Spring,2-Day Shipping,No,No,PayPal
@@ -2331,13 +2331,13 @@ dfe05a5c-d548-406f-a1ea-328d5b9490a9,2023-10-07 03:21:50.371164683+00:00,Pants,C
 01df390d-5dae-4923-8664-a8264b7be666,2023-04-16 05:52:39.374414977+00:00,Hat,Accessories,97,S,Teal,Spring,Free Shipping,No,No,Bank Transfer
 64bde2e5-4835-40b1-b973-f1805656db2d,2023-08-08 06:32:47.193343861+00:00,Backpack,Accessories,63,L,Orange,Summer,Store Pickup,No,No,PayPal
 2b7deea4-5f21-45d9-a190-d28949a44d64,2023-09-12 21:34:09.614616216+00:00,Scarf,Accessories,77,S,Olive,Spring,2-Day Shipping,No,No,Credit Card
-f2d5dba9-82a6-4701-a2c3-875d78b11552,2023-02-26 02:03:14.572440706+00:00,Scarf,Accessories,53,XL,Olive,Fall,Store Pickup,No,No,Venmo
+f2d5dba9-82a6-4701-a2c3-875d78b11552,2024-02-19 02:03:14.572440706+00:00,Scarf,Accessories,53,XL,Olive,Fall,Store Pickup,No,No,Venmo
 cf21a248-3ecd-49af-906b-c32a1c395e3e,2023-10-16 13:33:19.095832394+00:00,Shirt,Clothing,77,M,Beige,Spring,Next Day Air,No,No,PayPal
 ff15972b-3d86-49ad-a39c-08e98b8a17b9,2023-11-25 07:18:14.227805429+00:00,Boots,Footwear,79,L,Green,Summer,Standard,No,No,Credit Card
 65a80c80-3505-4b2a-a89b-e024aa67c0dd,2023-10-23 20:38:49.970808224+00:00,Coat,Outerwear,37,M,Black,Summer,Store Pickup,No,No,Venmo
 f1534422-a816-4ca0-8eed-ba37612e6837,2023-09-04 03:43:58.851698440+00:00,Belt,Accessories,94,M,Green,Winter,Free Shipping,No,No,Credit Card
 e7af9143-6481-4162-9350-b8ad55bce8c7,2023-07-02 13:54:06.721177296+00:00,Boots,Footwear,76,S,Violet,Fall,Store Pickup,No,No,Cash
-2bbfe018-cb60-4f4e-8a0c-1002f2838b43,2023-02-25 00:03:02.501756898+00:00,Sneakers,Footwear,68,S,Silver,Fall,Express,No,No,PayPal
+2bbfe018-cb60-4f4e-8a0c-1002f2838b43,2024-02-19 00:03:02.501756898+00:00,Sneakers,Footwear,68,S,Silver,Fall,Express,No,No,PayPal
 b14b84df-ff36-4e98-becf-ebb1db5698e9,2023-02-16 10:21:53.425451732+00:00,Shirt,Clothing,65,L,Maroon,Spring,Next Day Air,No,No,Bank Transfer
 e5813ca3-3ab6-482c-ae3b-6db80b041576,2023-07-04 01:14:17.900369089+00:00,Blouse,Clothing,24,M,Cyan,Summer,Standard,No,No,Credit Card
 659c526c-d2ef-4a95-aa17-a92200cc6e9d,2023-03-04 09:25:34.107033806+00:00,Jacket,Outerwear,31,L,Teal,Summer,Express,No,No,Venmo
@@ -2385,7 +2385,7 @@ ce420870-98f3-408a-86c2-d524a363199d,2023-09-01 20:35:26.247775327+00:00,Scarf,A
 b7b2c2f2-5a66-4205-8fc3-585a0358a624,2023-06-08 06:02:11.625192015+00:00,Backpack,Accessories,72,L,Gold,Spring,2-Day Shipping,No,No,Bank Transfer
 d9924996-7deb-486f-a23c-57821cc16972,2023-10-14 21:51:40.195717597+00:00,Blouse,Clothing,35,L,Green,Winter,2-Day Shipping,No,No,PayPal
 df49eaff-72fc-450a-9246-39aa8c7e5f76,2023-07-17 17:38:45.310017173+00:00,Scarf,Accessories,31,M,Brown,Fall,Express,No,No,PayPal
-f727e370-3c2f-4057-a9a1-9feca477db7b,2023-02-23 11:53:59.984310212+00:00,Socks,Clothing,33,L,Blue,Summer,Standard,No,No,Venmo
+f727e370-3c2f-4057-a9a1-9feca477db7b,2024-02-19 11:53:59.984310212+00:00,Socks,Clothing,33,L,Blue,Summer,Standard,No,No,Venmo
 82a3ea79-527b-488a-9458-d97973486b6c,2023-08-26 18:53:11.767784566+00:00,Hat,Accessories,95,M,Gold,Summer,2-Day Shipping,No,No,Debit Card
 d99fa7da-5988-4f58-b499-62be9c8d158d,2023-01-24 12:05:58.758676827+00:00,Dress,Clothing,68,M,Peach,Fall,Store Pickup,No,No,Debit Card
 b91f53d8-d63b-41a6-8831-726a843fad70,2023-05-08 01:11:02.251974888+00:00,Coat,Outerwear,87,M,Violet,Spring,Store Pickup,No,No,Bank Transfer
@@ -2404,7 +2404,7 @@ a8f92cb0-7571-4eb5-85fb-46aa85aee6f1,2023-11-04 16:50:15.585124127+00:00,Dress,C
 9835f1f5-d90f-4665-ac5d-d67e6ac82f91,2023-07-19 08:38:09.005727579+00:00,Scarf,Accessories,89,M,Brown,Winter,Free Shipping,No,No,Cash
 b53b0e1e-cbfc-4790-953b-643644363118,2023-03-26 13:09:51.973727536+00:00,Shorts,Clothing,22,M,Magenta,Fall,Standard,No,No,Debit Card
 23a6e557-e19e-48cc-908b-3fd8f7300e33,2023-10-17 09:54:52.772895707+00:00,Shorts,Clothing,33,L,Cyan,Winter,2-Day Shipping,No,No,Credit Card
-35ecb61d-cd65-41bd-9fbd-42eda5251d45,2023-02-22 09:50:04.026705662+00:00,Jeans,Clothing,97,XL,Silver,Fall,Standard,No,No,Debit Card
+35ecb61d-cd65-41bd-9fbd-42eda5251d45,2024-02-19 09:50:04.026705662+00:00,Jeans,Clothing,97,XL,Silver,Fall,Standard,No,No,Debit Card
 95a988aa-82ef-49b3-98c2-ff997756047f,2023-01-19 08:11:02.389025174+00:00,Scarf,Accessories,57,M,Indigo,Winter,Standard,No,No,PayPal
 c27e676f-2487-4ce5-b1ea-ba35f4b946fb,2023-10-25 04:34:07.312363159+00:00,Shorts,Clothing,38,M,Beige,Summer,Express,No,No,Credit Card
 a86380c9-c9ae-4c70-8187-106bf47a7de1,2023-01-28 16:28:14.067184926+00:00,Sneakers,Footwear,55,XL,Black,Fall,Next Day Air,No,No,Debit Card
@@ -2421,7 +2421,7 @@ ef2cfaf1-de26-4978-8ade-3d2710c01378,2023-11-24 23:07:34.947326568+00:00,Pants,C
 5c8eb6f4-ec05-410f-81f1-aeb94da0dbc8,2023-05-12 02:12:53.456399693+00:00,Sweater,Clothing,40,M,Blue,Fall,Next Day Air,No,No,Credit Card
 7b352ee0-686d-4151-88b3-97b1e6d9e6d1,2023-08-24 18:59:19.822654395+00:00,Jacket,Outerwear,87,S,Green,Winter,Free Shipping,No,No,PayPal
 71bd587d-056d-48d0-9141-1417532b133a,2023-12-23 01:24:40.735019983+00:00,Sneakers,Footwear,46,L,Pink,Spring,Standard,No,No,Debit Card
-ee956738-7d9f-4df1-8d66-bb0842300704,2023-02-23 21:31:08.744622104+00:00,Jewelry,Accessories,82,M,Peach,Winter,Store Pickup,No,No,Credit Card
+ee956738-7d9f-4df1-8d66-bb0842300704,2024-02-19 21:31:08.744622104+00:00,Jewelry,Accessories,82,M,Peach,Winter,Store Pickup,No,No,Credit Card
 ae9f2a92-f9e7-49d6-88f3-f5ca55481da4,2023-02-08 07:49:08.582275834+00:00,Backpack,Accessories,81,M,Purple,Summer,Free Shipping,No,No,Credit Card
 0b64ce57-9269-480c-aa99-89e914793319,2023-08-07 15:29:24.938077028+00:00,Jewelry,Accessories,57,M,Peach,Winter,Next Day Air,No,No,Bank Transfer
 10c14856-5b61-4c27-aaf4-941dceda62cf,2023-08-24 01:52:26.359755096+00:00,Shoes,Footwear,49,S,Olive,Summer,2-Day Shipping,No,No,Bank Transfer
@@ -2480,7 +2480,7 @@ d1676679-a4cb-448e-a71f-791db6d80ad0,2023-03-20 03:29:47.119991050+00:00,Gloves,
 1c9086a0-fcb4-4250-8ed8-859e5555e154,2023-01-22 13:22:18.935150867+00:00,Socks,Clothing,93,S,Maroon,Winter,2-Day Shipping,No,No,Bank Transfer
 0cb68046-2592-4640-8b95-5802be76e8fd,2023-03-12 13:15:10.494090803+00:00,Dress,Clothing,98,S,Olive,Fall,Standard,No,No,Credit Card
 529bdda5-cc40-4c98-bd29-7f58c93b1914,2023-10-21 21:06:31.923135500+00:00,Socks,Clothing,91,XL,Maroon,Summer,Next Day Air,No,No,Credit Card
-5991a777-782f-4132-bf71-8d396295afe7,2023-02-25 09:34:39.699729376+00:00,Belt,Accessories,92,XL,Cyan,Fall,Free Shipping,No,No,Debit Card
+5991a777-782f-4132-bf71-8d396295afe7,2024-02-19 09:34:39.699729376+00:00,Belt,Accessories,92,XL,Cyan,Fall,Free Shipping,No,No,Debit Card
 53ffb9b7-7844-4241-91dd-4539bfcba771,2023-04-15 09:40:19.586335403+00:00,Handbag,Accessories,87,S,Peach,Winter,Next Day Air,No,No,Credit Card
 6741ccb4-cc28-4526-a610-d5409678c137,2023-01-07 10:36:36.306059257+00:00,Skirt,Clothing,96,S,Teal,Fall,Standard,No,No,Debit Card
 41b69ca8-7f46-4f39-b8fb-21135dea6e9e,2023-04-12 02:34:07.173730312+00:00,Hoodie,Clothing,97,M,Green,Summer,2-Day Shipping,No,No,Cash
@@ -2510,9 +2510,9 @@ f68b8624-1ad7-423b-a4bc-20911ba323d1,2023-08-14 07:59:45.811367900+00:00,Dress,C
 f177bbc5-f847-431b-b147-75f4f89415cc,2023-06-12 16:08:24.975257312+00:00,Sneakers,Footwear,90,XL,Indigo,Spring,2-Day Shipping,No,No,Debit Card
 4194fe8d-944c-423c-b026-2933bd3293a4,2023-12-19 21:20:17.273022164+00:00,Socks,Clothing,48,M,Black,Spring,Free Shipping,No,No,Bank Transfer
 2a723bc7-081a-4f54-a8dd-093d523701e1,2023-09-09 11:50:39.892112886+00:00,Jacket,Outerwear,42,L,Purple,Winter,Standard,No,No,Credit Card
-716da5c2-04ff-488b-8edb-dde26669a5e6,2023-02-19 08:01:46.506770844+00:00,Backpack,Accessories,33,M,Cyan,Summer,Store Pickup,No,No,PayPal
+716da5c2-04ff-488b-8edb-dde26669a5e6,2024-02-19 08:01:46.506770844+00:00,Backpack,Accessories,33,M,Cyan,Summer,Store Pickup,No,No,PayPal
 c3416240-713f-4e4d-bbac-eecfae530ed6,2023-08-09 06:03:32.512883418+00:00,Socks,Clothing,63,M,Green,Summer,Free Shipping,No,No,Credit Card
-34fd6cc0-825b-4afd-82d6-d40c7fc3f5a7,2023-02-19 08:14:50.720373681+00:00,Handbag,Accessories,53,L,Teal,Winter,2-Day Shipping,No,No,Cash
+34fd6cc0-825b-4afd-82d6-d40c7fc3f5a7,2024-02-19 08:14:50.720373681+00:00,Handbag,Accessories,53,L,Teal,Winter,2-Day Shipping,No,No,Cash
 69bcc199-356a-475e-a28a-9f3073386fe1,2023-05-17 01:43:21.861559354+00:00,Hat,Accessories,37,L,Teal,Spring,Free Shipping,No,No,PayPal
 d26fb0c8-153b-45b0-bc2e-2dfcaf3cd450,2023-08-24 08:59:35.175226778+00:00,Blouse,Clothing,92,M,Magenta,Summer,2-Day Shipping,No,No,Cash
 93417c5b-ad75-472e-a804-d2d9ecb7c550,2023-12-28 17:47:36.273999463+00:00,Shorts,Clothing,73,XL,Brown,Spring,Standard,No,No,Debit Card
@@ -2553,7 +2553,7 @@ c92a9b37-3b9e-40e0-9cfe-c083e6bec10b,2023-10-21 09:20:06.839530437+00:00,Backpac
 6b9b772e-a12a-4e23-8dc3-24cec68d571a,2023-03-01 16:10:15.821112130+00:00,Shoes,Footwear,32,M,Maroon,Winter,Next Day Air,No,No,Debit Card
 a57a874d-6365-42f9-8fb1-a0e1c293efff,2023-10-20 20:24:52.813629072+00:00,Belt,Accessories,48,XL,Purple,Spring,2-Day Shipping,No,No,Credit Card
 82525200-d510-4c6d-b2c8-3ca3577f7645,2023-07-09 03:43:08.380345477+00:00,Jewelry,Accessories,25,M,Maroon,Summer,Store Pickup,No,No,Venmo
-ca9febf6-aea2-4ec7-a2d8-dbdceec8a88a,2023-02-22 12:10:44.278262188+00:00,Jewelry,Accessories,68,M,Gray,Summer,Store Pickup,No,No,Debit Card
+ca9febf6-aea2-4ec7-a2d8-dbdceec8a88a,2024-02-19 12:10:44.278262188+00:00,Jewelry,Accessories,68,M,Gray,Summer,Store Pickup,No,No,Debit Card
 52d75afc-37de-41ab-9d91-39d19a0a33ee,2023-06-01 22:24:52.698381434+00:00,Pants,Clothing,74,M,Gray,Fall,Standard,No,No,Credit Card
 556ec2eb-7074-4fc3-a07e-146e27972b4b,2023-11-28 01:31:54.689682230+00:00,T-shirt,Clothing,88,XL,Magenta,Fall,Standard,No,No,Bank Transfer
 20d95a77-f0f3-4fd5-984b-a9001bb7657a,2023-01-25 17:30:33.355741438+00:00,Shorts,Clothing,23,L,Cyan,Spring,Standard,No,No,PayPal
@@ -2573,7 +2573,7 @@ e9a727a1-d9d8-4429-b640-4ba57f053693,2023-01-04 19:35:32.037810164+00:00,Sunglas
 e67e197b-689c-4dc3-b9d8-9db8a0c94a9a,2023-03-20 22:50:44.424180728+00:00,Sunglasses,Accessories,27,L,Black,Winter,Standard,No,No,Cash
 39ac4aef-0632-4989-97af-a9cad56e1bc5,2023-10-31 14:59:09.631160160+00:00,Blouse,Clothing,42,M,Silver,Fall,Next Day Air,No,No,Bank Transfer
 e4aea852-39a1-41ba-b4c6-51a5a541ed8b,2023-05-11 23:21:28.512113754+00:00,T-shirt,Clothing,90,M,Red,Summer,Store Pickup,No,No,Bank Transfer
-d0487eb4-1405-4744-b438-c779a6cb898b,2023-02-20 07:25:38.957987984+00:00,Hat,Accessories,63,M,Brown,Summer,2-Day Shipping,No,No,Credit Card
+d0487eb4-1405-4744-b438-c779a6cb898b,2024-02-19 07:25:38.957987984+00:00,Hat,Accessories,63,M,Brown,Summer,2-Day Shipping,No,No,Credit Card
 f846b8c7-4f2c-4bae-ac0c-edefd6bc77f7,2023-02-08 20:39:20.857448439+00:00,Shorts,Clothing,96,M,Silver,Fall,Express,No,No,PayPal
 e3073dd5-0570-475d-a19b-ff67c497d0ab,2023-12-08 02:56:38.087859312+00:00,Hoodie,Clothing,40,M,Silver,Winter,Free Shipping,No,No,Debit Card
 90543763-ce0c-4690-84ff-d34ff54b2c10,2023-03-26 11:06:52.216285162+00:00,Socks,Clothing,39,L,Black,Fall,Next Day Air,No,No,Bank Transfer
@@ -2625,7 +2625,7 @@ a44fef0b-e011-4318-964d-f3899bff4d1f,2023-03-16 13:59:17.585315278+00:00,Backpac
 31c005b6-25b5-4482-80f8-ec9df42f4634,2023-08-10 18:28:38.390261656+00:00,Shoes,Footwear,76,M,Gold,Fall,Next Day Air,No,No,Cash
 d407df91-17d0-41f8-be00-fecd9f86ab50,2023-04-22 02:40:52.248262591+00:00,Dress,Clothing,59,M,Indigo,Summer,Standard,No,No,Credit Card
 6b899025-2d81-47ed-8c59-492ca08df1df,2023-01-08 08:07:08.994567834+00:00,Skirt,Clothing,51,L,Cyan,Summer,Standard,No,No,Credit Card
-42d611ff-7a28-42a5-8a8c-a31bf1246e41,2023-02-20 05:50:48.902964205+00:00,Jacket,Outerwear,46,XL,Silver,Fall,Express,No,No,Credit Card
+42d611ff-7a28-42a5-8a8c-a31bf1246e41,2024-02-19 05:50:48.902964205+00:00,Jacket,Outerwear,46,XL,Silver,Fall,Express,No,No,Credit Card
 f381da29-a79c-4329-9a44-1269ca4674ad,2023-02-09 04:17:30.092513891+00:00,Shirt,Clothing,26,L,Silver,Fall,Next Day Air,No,No,Bank Transfer
 e367829d-c34e-464a-b63b-1c9478fc20ec,2023-05-29 12:23:55.942828208+00:00,Hoodie,Clothing,51,M,Silver,Summer,Next Day Air,No,No,Credit Card
 e2110913-8a44-412b-96be-54af246b33ad,2023-01-23 10:22:11.904789956+00:00,Scarf,Accessories,44,M,Peach,Winter,Free Shipping,No,No,Venmo
@@ -2737,7 +2737,7 @@ e1558f54-49cc-485f-b30e-e014c4cb2057,2023-07-24 12:32:03.946414073+00:00,Jeans,C
 3cff5956-be85-439b-87cb-3ed77d934abf,2023-07-03 21:29:09.324503623+00:00,Skirt,Clothing,29,M,Yellow,Spring,Express,No,No,PayPal
 1be69f17-f153-4d11-9ed2-00a7732aa7d7,2023-01-12 16:18:33.325570499+00:00,Hoodie,Clothing,25,M,Pink,Spring,Store Pickup,No,No,Credit Card
 5e399506-d422-44d0-86b9-d9133a7f29bc,2023-01-30 00:31:52.602495817+00:00,Jewelry,Accessories,76,S,Indigo,Spring,Free Shipping,No,No,Cash
-5713b129-a385-4b82-bee9-4105841533df,2023-02-20 07:21:55.032220945+00:00,Sneakers,Footwear,81,M,Charcoal,Summer,2-Day Shipping,No,No,Venmo
+5713b129-a385-4b82-bee9-4105841533df,2024-02-19 07:21:55.032220945+00:00,Sneakers,Footwear,81,M,Charcoal,Summer,2-Day Shipping,No,No,Venmo
 fa04ea93-0836-4953-909d-7e6e7f0cda08,2023-02-09 01:57:36.312292615+00:00,Shirt,Clothing,80,XL,Blue,Winter,Store Pickup,No,No,Credit Card
 44d6b547-d4da-434b-8687-0964c3f6061c,2023-09-17 15:48:47.237779694+00:00,Sunglasses,Accessories,70,M,Lavender,Summer,Free Shipping,No,No,Bank Transfer
 ef89ffc8-3fc8-48fd-8858-a700c5d474a1,2023-08-07 08:23:32.915489266+00:00,Dress,Clothing,81,L,Yellow,Fall,2-Day Shipping,No,No,Venmo
@@ -2769,8 +2769,8 @@ e9d9f18e-7c30-4fd4-866d-cbb022f5e149,2023-03-27 14:38:40.070698307+00:00,Sweater
 a001f97d-8d25-48a1-aada-a15393b57bcd,2023-04-21 15:30:47.897108525+00:00,Dress,Clothing,95,M,Green,Spring,Free Shipping,No,No,Cash
 3123e912-29f7-46d9-a6b7-082f16d5db6b,2023-05-12 16:38:02.191532936+00:00,Blouse,Clothing,25,M,Beige,Spring,2-Day Shipping,No,No,PayPal
 80a024e5-7376-4d06-a996-3b2d4c3fc23d,2023-08-23 09:59:20.439820086+00:00,Shirt,Clothing,89,L,Lavender,Fall,Standard,No,No,Cash
-abc98cb8-4daf-426c-89d8-23423ebb4842,2023-02-22 07:17:47.227434251+00:00,Boots,Footwear,44,S,Blue,Fall,Express,No,No,Bank Transfer
-d22a44bb-a8c7-4a32-b82e-4abf3feb816a,2023-02-24 02:44:24.261725342+00:00,Jacket,Outerwear,52,S,Beige,Summer,2-Day Shipping,No,No,Bank Transfer
+abc98cb8-4daf-426c-89d8-23423ebb4842,2024-02-19 07:17:47.227434251+00:00,Boots,Footwear,44,S,Blue,Fall,Express,No,No,Bank Transfer
+d22a44bb-a8c7-4a32-b82e-4abf3feb816a,2024-02-19 02:44:24.261725342+00:00,Jacket,Outerwear,52,S,Beige,Summer,2-Day Shipping,No,No,Bank Transfer
 7ee20df0-394a-478f-8815-32f25e20505f,2023-12-14 00:17:25.121904446+00:00,Backpack,Accessories,94,L,Blue,Spring,Store Pickup,No,No,Bank Transfer
 4525a78d-0491-4154-a177-81a9b932d4d7,2023-05-23 13:53:05.705664591+00:00,Pants,Clothing,98,S,Maroon,Spring,Express,No,No,Bank Transfer
 1d681f4e-d0cb-446c-8d3d-9539b6d434e8,2023-08-04 12:53:38.356149498+00:00,Boots,Footwear,40,L,Yellow,Fall,Standard,No,No,Credit Card
@@ -2804,7 +2804,7 @@ b09213cc-7ee4-4fba-8d0b-433456102d2a,2023-08-09 16:22:07.803809409+00:00,Jewelry
 f3c2e893-8aa6-4c94-a1e5-72403acde06d,2023-11-23 13:36:37.032885172+00:00,Coat,Outerwear,100,L,Red,Fall,Store Pickup,No,No,Credit Card
 d67c3590-a8d2-4f3f-aba1-daa3e888c85f,2023-06-04 13:39:53.741955578+00:00,T-shirt,Clothing,44,M,Violet,Winter,Free Shipping,No,No,Bank Transfer
 33ddb8bb-bbf6-4829-808f-a84f8a5238e8,2023-08-16 14:12:35.405153318+00:00,Hoodie,Clothing,76,M,Cyan,Spring,Standard,No,No,Bank Transfer
-3d3428d7-e586-4f8d-a903-0dc10df7431b,2023-02-24 19:42:06.496710121+00:00,Sunglasses,Accessories,97,S,Black,Fall,Standard,No,No,Cash
+3d3428d7-e586-4f8d-a903-0dc10df7431b,2024-02-19 19:42:06.496710121+00:00,Sunglasses,Accessories,97,S,Black,Fall,Standard,No,No,Cash
 7d121ded-141d-4b99-90b5-1157ebc4acf4,2023-09-22 09:37:07.642856365+00:00,Blouse,Clothing,39,L,Purple,Spring,Standard,No,No,Credit Card
 68687c2b-4b83-4df0-8b59-0e976cdcfb58,2023-03-19 11:58:17.084643046+00:00,Hoodie,Clothing,100,M,Charcoal,Spring,2-Day Shipping,No,No,Debit Card
 aaa3e535-e1e6-4907-9a3b-790ee11f75c4,2023-05-13 06:29:44.782221895+00:00,Skirt,Clothing,62,M,Beige,Spring,Free Shipping,No,No,PayPal
@@ -2866,7 +2866,7 @@ e3a9dbaf-4a9f-412e-bc50-5b3328e314df,2023-10-09 12:58:29.806578927+00:00,Coat,Ou
 2475541e-14a9-4e65-996e-e1e4edfbd45f,2023-10-11 05:18:35.630465167+00:00,Sweater,Clothing,43,S,Maroon,Fall,Store Pickup,No,No,Venmo
 ad4f8ddf-b68f-45b8-b24e-7051e698224b,2023-09-30 11:59:04.967854843+00:00,Skirt,Clothing,97,M,Silver,Fall,Free Shipping,No,No,Cash
 0d4b9749-a0f9-489a-a372-e4e5e7687556,2023-03-20 03:31:16.178290249+00:00,Blouse,Clothing,75,S,Violet,Summer,Free Shipping,No,No,Cash
-6db73e76-3d22-4d3a-b9b4-cb5228536694,2023-02-23 22:56:52.017171641+00:00,Sneakers,Footwear,55,L,White,Summer,Next Day Air,No,No,Cash
+6db73e76-3d22-4d3a-b9b4-cb5228536694,2024-02-19 22:56:52.017171641+00:00,Sneakers,Footwear,55,L,White,Summer,Next Day Air,No,No,Cash
 e2582c76-21b8-4ebd-a0df-f6986a01ef91,2023-11-13 10:21:53.778034956+00:00,Backpack,Accessories,49,M,Black,Winter,Next Day Air,No,No,PayPal
 cde81db1-a5da-49d2-8368-70f32cce8697,2023-08-27 06:13:57.912407944+00:00,Socks,Clothing,58,M,White,Summer,Standard,No,No,Bank Transfer
 c2be31f7-17db-43c3-bcc2-8158e9a17f7b,2023-05-05 16:10:49.378831762+00:00,Jewelry,Accessories,34,M,Blue,Winter,Free Shipping,No,No,Debit Card
@@ -2886,7 +2886,7 @@ bf545173-1458-4b74-8f0a-6c730c061e1b,2023-09-05 15:36:10.671261289+00:00,Socks,C
 02a0bbf1-c12b-4e88-8818-355d4dcb5a4d,2023-10-31 18:48:29.559388422+00:00,Boots,Footwear,50,M,Purple,Summer,2-Day Shipping,No,No,Credit Card
 2bf8013c-cf9c-4b08-afc6-67f124b589b2,2023-01-20 14:31:49.919148692+00:00,Backpack,Accessories,82,M,Yellow,Summer,Next Day Air,No,No,Credit Card
 ca8216c2-5344-4990-bbfa-cd4255b5a680,2023-11-26 05:10:46.464446351+00:00,Hat,Accessories,33,L,Blue,Spring,Free Shipping,No,No,PayPal
-54d8a26f-67df-4e6e-bfad-e29b5795f0e7,2023-02-28 11:04:34.589464147+00:00,Sandals,Footwear,28,L,Blue,Winter,Express,No,No,Cash
+54d8a26f-67df-4e6e-bfad-e29b5795f0e7,2024-02-19 11:04:34.589464147+00:00,Sandals,Footwear,28,L,Blue,Winter,Express,No,No,Cash
 38a7afc3-33e9-4cd8-9edd-cf65a6ca3409,2023-09-21 22:21:37.746298874+00:00,Hoodie,Clothing,42,L,Green,Spring,2-Day Shipping,No,No,Debit Card
 05ff17b5-cb18-49c8-b225-f1a7516705b5,2023-05-25 13:32:27.453092657+00:00,Sunglasses,Accessories,43,M,Charcoal,Fall,Store Pickup,No,No,Venmo
 8282da58-8db5-4d4c-9780-6ee74c677048,2023-07-31 12:02:30.331014592+00:00,Jeans,Clothing,55,M,Violet,Winter,Free Shipping,No,No,Credit Card
@@ -2916,7 +2916,7 @@ bbb9352f-f867-44e2-9e1f-65775c6c88c6,2023-06-21 16:58:30.884640230+00:00,Coat,Ou
 c7bba3ee-8974-4a67-96eb-5331f6f3e10c,2023-10-11 21:52:52.554874849+00:00,Sweater,Clothing,72,M,Yellow,Fall,Express,No,No,Debit Card
 0b8321da-b45b-41e6-b2d7-a1328a0ff71b,2023-06-01 19:21:43.724307634+00:00,Shirt,Clothing,30,M,Cyan,Fall,Express,No,No,Debit Card
 eb62c31b-3f8d-42e0-9ccc-1d6f81108645,2023-11-28 07:44:40.692938869+00:00,Shorts,Clothing,66,M,Green,Winter,Express,No,No,Credit Card
-b4db67e2-47a0-4756-a0b1-fbe86b246945,2023-02-21 11:49:22.402438064+00:00,Shirt,Clothing,45,XL,White,Winter,Store Pickup,No,No,Venmo
+b4db67e2-47a0-4756-a0b1-fbe86b246945,2024-02-19 11:49:22.402438064+00:00,Shirt,Clothing,45,XL,White,Winter,Store Pickup,No,No,Venmo
 ff43caba-53a1-41b5-90ee-cfaa4ec7e2fc,2023-10-08 21:29:58.514956709+00:00,Sunglasses,Accessories,73,S,Black,Fall,Free Shipping,No,No,Cash
 13a1a9ef-4b44-4e7b-a33f-75bc25a16ad7,2023-02-27 06:38:09.019285687+00:00,Shoes,Footwear,67,L,Charcoal,Winter,Standard,No,No,Debit Card
 c1e48bc8-9061-4975-940a-2cd6afb26acf,2023-06-16 23:16:52.517666322+00:00,Sunglasses,Accessories,72,XL,Brown,Spring,Free Shipping,No,No,Debit Card
@@ -2948,7 +2948,7 @@ b828703a-49e0-40be-91e0-2d8d24bbb5b7,2023-12-15 13:54:26.689657332+00:00,Socks,C
 594d55c2-2c60-43ea-a170-087ff4e9180f,2023-11-28 10:10:49.245401121+00:00,Pants,Clothing,77,L,Purple,Spring,Free Shipping,No,No,Bank Transfer
 bce73d6c-2dab-4d3e-b58e-568bcd141b09,2023-07-20 07:45:58.505519573+00:00,Jewelry,Accessories,63,L,Peach,Spring,Standard,No,No,Venmo
 7521230f-cf60-41f0-a2f3-2117f834bb3e,2023-03-26 09:14:22.333373261+00:00,Pants,Clothing,83,M,Violet,Winter,Standard,No,No,Debit Card
-d6b6d816-c4b2-4f73-bb68-4622f96cf56a,2023-02-22 19:33:24.474117561+00:00,Jewelry,Accessories,93,M,Peach,Spring,Store Pickup,No,No,PayPal
+d6b6d816-c4b2-4f73-bb68-4622f96cf56a,2024-02-19 19:33:24.474117561+00:00,Jewelry,Accessories,93,M,Peach,Spring,Store Pickup,No,No,PayPal
 b35bb526-131b-4839-8760-038d4b666ff2,2023-04-24 08:38:17.347926111+00:00,Jeans,Clothing,91,S,Maroon,Winter,2-Day Shipping,No,No,Debit Card
 b0e6227a-883a-49ba-9e6c-68ed2072cfd6,2023-04-23 14:54:25.645102856+00:00,Scarf,Accessories,99,L,Maroon,Fall,Free Shipping,No,No,Cash
 7913fa73-47b9-4684-a6f7-2139eeffcf4c,2023-01-10 13:39:09.319591889+00:00,Belt,Accessories,24,M,Peach,Spring,Next Day Air,No,No,Debit Card
@@ -3083,7 +3083,7 @@ b2217908-de13-4b24-89f7-38416f283719,2023-05-28 05:46:46.665754078+00:00,Hoodie,
 417f62c0-0055-48c8-8970-320e5cbccd36,2023-07-12 00:16:58.961097265+00:00,Sneakers,Footwear,44,L,Pink,Winter,Next Day Air,No,No,Credit Card
 bd031510-69ee-43f2-b667-d43e67a92e99,2023-08-16 08:11:32.238683234+00:00,T-shirt,Clothing,99,M,Maroon,Spring,Next Day Air,No,No,Bank Transfer
 1c5a4fba-920d-4fa4-87d0-4aee3d8dad6e,2023-01-22 07:08:32.616043784+00:00,Pants,Clothing,20,S,Purple,Summer,Store Pickup,No,No,PayPal
-eabb25bb-c8bd-4615-a809-c3361a4ea688,2023-02-23 18:53:58.485326923+00:00,Scarf,Accessories,37,S,Indigo,Spring,Store Pickup,No,No,PayPal
+eabb25bb-c8bd-4615-a809-c3361a4ea688,2024-02-19 18:53:58.485326923+00:00,Scarf,Accessories,37,S,Indigo,Spring,Store Pickup,No,No,PayPal
 cf6f56d4-5cce-466b-aba5-562f385cc657,2023-12-06 16:37:41.300965951+00:00,Sweater,Clothing,50,L,Gray,Winter,Store Pickup,No,No,Venmo
 f2ecc215-cd9e-4d6e-adac-f1f44856f0f1,2023-11-10 11:40:38.606696957+00:00,Handbag,Accessories,73,M,Lavender,Summer,Next Day Air,No,No,Venmo
 a473505b-3922-4442-b26d-e29c5c2edcf0,2023-04-17 15:39:44.882466025+00:00,Shirt,Clothing,84,M,Charcoal,Spring,Free Shipping,No,No,Bank Transfer
@@ -3113,7 +3113,7 @@ b27161f0-a261-43ce-ad5a-3236a8398f1b,2023-12-12 17:57:35.802957910+00:00,Handbag
 5aeed16c-0e53-4e4d-b348-383a3b52e0be,2023-10-29 14:58:23.635637098+00:00,Belt,Accessories,81,XL,Indigo,Spring,Free Shipping,No,No,Debit Card
 6038d4ff-1557-4440-a369-3ee6eeb5aaee,2023-02-18 14:22:57.036471435+00:00,Blouse,Clothing,97,S,Green,Fall,Express,No,No,Venmo
 26e3a8ce-cdc5-42c2-8ff1-c33e2997a6d8,2023-03-19 20:54:13.860461289+00:00,Shirt,Clothing,93,L,Green,Summer,Express,No,No,Debit Card
-02ca1d02-146f-4f92-b443-21cff4293462,2023-02-26 22:21:48.068366419+00:00,Handbag,Accessories,56,M,Olive,Spring,Store Pickup,No,No,Venmo
+02ca1d02-146f-4f92-b443-21cff4293462,2024-02-19 22:21:48.068366419+00:00,Handbag,Accessories,56,M,Olive,Spring,Store Pickup,No,No,Venmo
 4e2fe62e-acc3-42f6-8a69-510cd92623cc,2023-03-30 23:48:00.043194480+00:00,Scarf,Accessories,53,M,Charcoal,Fall,Free Shipping,No,No,Bank Transfer
 f33d66df-c1a6-43ab-a68f-45e298bc7e33,2023-06-10 06:21:00.514597473+00:00,Coat,Outerwear,66,L,Gray,Spring,Store Pickup,No,No,Venmo
 fb654174-5ccb-40cd-8638-6a131505639e,2023-05-08 12:34:19.794822922+00:00,Hoodie,Clothing,50,M,Olive,Fall,Free Shipping,No,No,PayPal
@@ -3127,7 +3127,7 @@ b3d970d0-7f84-4669-8815-ec46fab6ec70,2023-02-11 06:00:45.655937138+00:00,Jewelry
 e693c805-c177-4701-8a38-a9d39df8efe3,2023-01-25 14:12:19.344227311+00:00,Coat,Outerwear,26,L,Lavender,Spring,Standard,No,No,Cash
 a4410ae0-f5e7-4c33-8608-1f903b12a971,2023-05-25 14:21:01.979761198+00:00,Sunglasses,Accessories,76,L,Lavender,Winter,Store Pickup,No,No,Bank Transfer
 afabb855-1287-45f5-8610-23f472e11ac4,2023-09-10 06:03:07.571996522+00:00,Gloves,Accessories,94,M,Beige,Winter,Free Shipping,No,No,Credit Card
-c95e6cd0-88ec-4148-8c34-2ec297e98c6f,2023-02-28 22:47:27.348731794+00:00,Jacket,Outerwear,32,S,Indigo,Fall,Standard,No,No,Cash
+c95e6cd0-88ec-4148-8c34-2ec297e98c6f,2024-02-19 22:47:27.348731794+00:00,Jacket,Outerwear,32,S,Indigo,Fall,Standard,No,No,Cash
 2eb3b9d5-80b0-41b7-a75c-c0ee02a80385,2023-02-11 21:07:11.270464445+00:00,Sandals,Footwear,20,S,Cyan,Summer,Express,No,No,Venmo
 e772e477-93c1-4561-a265-032a76b131ef,2023-06-19 20:34:18.405341004+00:00,Pants,Clothing,20,M,Yellow,Summer,Store Pickup,No,No,Venmo
 bfd7ccc7-1725-4cae-b6da-4cfc991464ca,2023-09-20 02:16:10.950220572+00:00,Jacket,Outerwear,59,M,Peach,Fall,Store Pickup,No,No,Bank Transfer
@@ -3135,7 +3135,7 @@ bfd7ccc7-1725-4cae-b6da-4cfc991464ca,2023-09-20 02:16:10.950220572+00:00,Jacket,
 487a536b-ec76-41e4-b7ac-e9556f5dad64,2023-03-15 11:37:21.754846294+00:00,T-shirt,Clothing,68,M,Orange,Spring,Next Day Air,No,No,Cash
 3a9e1bf3-e761-404d-a62b-50c0829e991b,2023-09-14 16:45:26.593909423+00:00,Boots,Footwear,66,L,Gray,Spring,Store Pickup,No,No,Bank Transfer
 a73ffa88-37d9-4b6e-9f99-bceeddbefa5f,2023-08-04 03:59:27.418160217+00:00,Shoes,Footwear,85,L,Yellow,Spring,Free Shipping,No,No,Venmo
-9666f0ed-13a4-486e-bdb0-9460b300fc97,2023-02-19 22:28:31.571531248+00:00,Skirt,Clothing,32,M,Gray,Fall,Next Day Air,No,No,Cash
+9666f0ed-13a4-486e-bdb0-9460b300fc97,2024-02-19 22:28:31.571531248+00:00,Skirt,Clothing,32,M,Gray,Fall,Next Day Air,No,No,Cash
 eec42016-2656-4399-9515-03b1403066f7,2023-05-18 17:01:47.026327784+00:00,Coat,Outerwear,44,M,Turquoise,Spring,2-Day Shipping,No,No,Bank Transfer
 c3be94d9-88ce-411e-a636-18c164c3c14e,2023-06-20 15:42:27.544775258+00:00,Blouse,Clothing,95,L,Gray,Fall,Next Day Air,No,No,Cash
 0ac88df9-78c1-4871-ab58-fe26b5648921,2023-12-02 21:38:39.834782073+00:00,Sunglasses,Accessories,85,M,Olive,Winter,Next Day Air,No,No,Venmo
@@ -3166,7 +3166,7 @@ a7ec008f-9012-488a-afaf-fd2aa2d835a8,2023-04-05 21:26:26.403689111+00:00,Dress,C
 7766893c-61eb-4b97-9324-249577a48534,2023-08-25 20:23:24.506914125+00:00,Dress,Clothing,32,L,Silver,Winter,Standard,No,No,Credit Card
 19d352e4-5dcb-42d2-bdd7-48a4cfbd698b,2023-04-15 21:36:08.807467862+00:00,Jacket,Outerwear,92,M,Lavender,Spring,Store Pickup,No,No,Bank Transfer
 ff41e347-8ccc-4b84-8ab5-e6bb6c450671,2023-08-29 08:39:27.159110222+00:00,Shirt,Clothing,80,M,Gold,Winter,Next Day Air,No,No,Bank Transfer
-a77c2bdc-49dc-4d24-a53b-b3c669f80db8,2023-02-22 03:57:59.170034454+00:00,Dress,Clothing,78,M,Blue,Fall,2-Day Shipping,No,No,Cash
+a77c2bdc-49dc-4d24-a53b-b3c669f80db8,2024-02-19 03:57:59.170034454+00:00,Dress,Clothing,78,M,Blue,Fall,2-Day Shipping,No,No,Cash
 140dc656-2aa5-4291-84dc-a190d0d045be,2023-05-26 03:27:00.482180161+00:00,Jeans,Clothing,24,M,Orange,Spring,2-Day Shipping,No,No,PayPal
 939e19d0-e0ea-4889-ac89-566f5d0ab34d,2023-02-12 14:53:53.847864512+00:00,T-shirt,Clothing,59,M,White,Fall,Free Shipping,No,No,Venmo
 4fa41121-6a18-47cf-bbac-0f9bb7f3abd7,2023-11-21 04:04:18.116726444+00:00,Sunglasses,Accessories,41,XL,Charcoal,Spring,Express,No,No,Credit Card
@@ -3184,7 +3184,7 @@ bbaf8470-4187-4497-83b4-2d9aacd4d3a8,2023-07-11 03:30:22.796566650+00:00,Jacket,
 195b6d4b-9bb3-43ff-a7c3-23fb2fe427d0,2023-11-14 22:48:58.039388051+00:00,Sunglasses,Accessories,97,L,Green,Fall,Free Shipping,No,No,Credit Card
 e8953d34-3b66-447c-a0f9-587d23ffd64d,2023-03-24 21:53:28.881899695+00:00,Sneakers,Footwear,56,M,Green,Winter,Standard,No,No,Cash
 fcfcff8c-e5b7-4fdc-9190-e51ace805e95,2023-11-21 17:38:05.335698067+00:00,Sweater,Clothing,53,L,Green,Spring,2-Day Shipping,No,No,Venmo
-a01b54af-007d-4c5e-ac7a-5900e21bc922,2023-02-20 13:45:20.183550364+00:00,Skirt,Clothing,71,L,Gold,Fall,Express,No,No,PayPal
+a01b54af-007d-4c5e-ac7a-5900e21bc922,2024-02-19 13:45:20.183550364+00:00,Skirt,Clothing,71,L,Gold,Fall,Express,No,No,PayPal
 e26a8fb5-cf2b-4228-9a92-331d8d353ccf,2023-10-04 09:33:55.879541388+00:00,Jewelry,Accessories,93,S,Cyan,Winter,Store Pickup,No,No,Venmo
 6a565e8a-0ef7-4692-ac0d-19db6f74c9e9,2023-09-15 07:17:01.220483288+00:00,Blouse,Clothing,72,L,Indigo,Winter,Free Shipping,No,No,Debit Card
 8beafc56-383e-4ac2-9c01-f73058dfd02c,2023-07-21 09:36:07.104992428+00:00,Blouse,Clothing,59,M,Lavender,Winter,Standard,No,No,Bank Transfer
@@ -3193,7 +3193,7 @@ ff681f4a-29af-4907-a1ed-2b860cb47f6f,2023-07-04 13:04:22.952012751+00:00,Jeans,C
 cfc9a9f3-247c-4b0f-9116-fba18862cd6d,2023-12-27 21:50:22.820715514+00:00,Hoodie,Clothing,68,XL,Maroon,Winter,Store Pickup,No,No,Credit Card
 ac653b3a-5eb5-4341-b921-65a9746f28de,2023-08-28 23:37:45.924510912+00:00,Sweater,Clothing,76,S,Maroon,Fall,Free Shipping,No,No,Cash
 87fd6416-6065-47f4-bd5a-9671fd537f09,2023-08-17 06:23:39.762068002+00:00,Gloves,Accessories,99,L,Teal,Winter,Express,No,No,Credit Card
-c707d2f2-0799-4039-a7d3-a21d6d9ee68d,2023-02-28 11:36:02.638601643+00:00,Sneakers,Footwear,52,L,Gold,Summer,Standard,No,No,Credit Card
+c707d2f2-0799-4039-a7d3-a21d6d9ee68d,2024-02-19 11:36:02.638601643+00:00,Sneakers,Footwear,52,L,Gold,Summer,Standard,No,No,Credit Card
 7215c55b-0a81-48da-ab8c-8fdaff3c6d6d,2023-08-13 17:35:53.938771241+00:00,Sunglasses,Accessories,58,S,Red,Spring,Next Day Air,No,No,Credit Card
 cd359c08-9a78-4896-801c-617a8075b285,2023-11-10 08:24:30.826702362+00:00,Belt,Accessories,59,L,Maroon,Winter,Express,No,No,Debit Card
 26a0a0ac-c90d-4f1f-9680-a32bf960f0b9,2023-04-20 20:07:21.244059689+00:00,Sweater,Clothing,71,M,Teal,Spring,Free Shipping,No,No,Credit Card
@@ -3366,7 +3366,7 @@ c5b43176-64d3-40b8-b0e2-3aefc5cba559,2023-10-29 09:32:49.480838979+00:00,Handbag
 d41888e6-74d0-4f7e-b080-9127511aeea4,2023-06-03 23:46:55.761327319+00:00,Scarf,Accessories,33,M,Peach,Fall,Standard,No,No,Credit Card
 0c0ae30e-0b36-414d-a249-fe35f0eca836,2023-07-11 08:41:41.376495593+00:00,Skirt,Clothing,58,L,Teal,Fall,Express,No,No,Credit Card
 7852b05a-2c92-4be2-aa37-4d0c7ae35cdd,2023-09-26 11:40:03.951134384+00:00,Gloves,Accessories,65,M,Red,Spring,2-Day Shipping,No,No,Debit Card
-4c0e5e0a-1c20-4665-a071-48966765cb01,2023-02-25 08:56:14.803649922+00:00,T-shirt,Clothing,48,M,Blue,Summer,Store Pickup,No,No,Venmo
+4c0e5e0a-1c20-4665-a071-48966765cb01,2024-02-19 08:56:14.803649922+00:00,T-shirt,Clothing,48,M,Blue,Summer,Store Pickup,No,No,Venmo
 25404c03-4354-40ab-be1f-105ebc9f3805,2023-04-02 06:13:36.198443565+00:00,Sandals,Footwear,25,M,Blue,Spring,Express,No,No,Bank Transfer
 21898060-d9ec-49f5-a7d8-99e72b036d03,2023-04-26 00:03:37.609335781+00:00,Sweater,Clothing,51,M,Indigo,Winter,2-Day Shipping,No,No,Cash
 b3afefb3-2485-498a-9b4e-f3e143a1bca4,2023-06-22 23:11:12.056311646+00:00,Belt,Accessories,31,M,Charcoal,Summer,Store Pickup,No,No,Cash
@@ -3464,7 +3464,7 @@ ea71d436-f0b9-4a36-bafb-55b70a208f3c,2023-05-28 08:04:43.111143720+00:00,Jewelry
 8121da46-588b-483a-acd9-46f99219fc92,2023-10-07 05:47:49.776444126+00:00,Jeans,Clothing,73,L,Olive,Spring,Standard,No,No,Credit Card
 901c9c33-82c9-4395-8a7c-fd86475cc3ce,2023-09-07 15:36:22.096820399+00:00,Jewelry,Accessories,27,M,Yellow,Fall,2-Day Shipping,No,No,PayPal
 bc2e1b15-7b03-46f4-96c7-4d7e62bbf962,2023-11-11 16:22:58.219708265+00:00,Coat,Outerwear,59,S,Peach,Winter,Next Day Air,No,No,PayPal
-2b6a37bb-0db0-4086-abb9-ffe175fb618c,2023-02-23 06:09:52.181730218+00:00,Backpack,Accessories,53,M,Gold,Spring,Standard,No,No,Debit Card
+2b6a37bb-0db0-4086-abb9-ffe175fb618c,2024-02-19 06:09:52.181730218+00:00,Backpack,Accessories,53,M,Gold,Spring,Standard,No,No,Debit Card
 705c6701-4a01-4547-885d-d30032aece60,2023-09-02 23:15:48.303711417+00:00,Socks,Clothing,42,S,Purple,Summer,Standard,No,No,Bank Transfer
 e4e97c2f-f416-430c-82da-953de6870a5b,2023-09-13 12:30:34.315622307+00:00,Scarf,Accessories,45,M,Charcoal,Fall,Next Day Air,No,No,Credit Card
 45cfec24-b614-4ca5-8eb3-0c4ce6d4e1da,2023-03-27 19:50:14.646217731+00:00,Sunglasses,Accessories,89,S,Indigo,Winter,Standard,No,No,Debit Card
@@ -3541,7 +3541,7 @@ ac0ed041-d3e8-4766-a64a-0e2779089355,2023-04-14 23:54:38.026732076+00:00,Handbag
 ce17fdcf-7036-4aa0-8011-9a05b3c71c4b,2023-09-17 07:59:53.040463211+00:00,Jewelry,Accessories,56,S,Green,Spring,Express,No,No,Credit Card
 3a38752a-dadb-4815-af68-d140c7623da6,2023-02-06 11:14:18.366099717+00:00,Shorts,Clothing,95,M,Magenta,Spring,Free Shipping,No,No,Bank Transfer
 40b2c6aa-adc2-4e26-bd55-f44dceb2ee51,2023-07-11 10:11:24.076093939+00:00,Blouse,Clothing,66,M,Olive,Winter,Next Day Air,No,No,PayPal
-f56c89cd-2954-4c52-878c-26fb095e4a2c,2023-02-23 14:17:24.871427625+00:00,Coat,Outerwear,28,S,Olive,Spring,Express,No,No,Venmo
+f56c89cd-2954-4c52-878c-26fb095e4a2c,2024-02-19 14:17:24.871427625+00:00,Coat,Outerwear,28,S,Olive,Spring,Express,No,No,Venmo
 90103f45-0b7c-401a-bd38-6a2e938f1f5d,2023-04-04 10:35:38.610478199+00:00,Hat,Accessories,83,M,Blue,Winter,Standard,No,No,PayPal
 944e450b-6e8f-4c30-8c70-6f90c003a46f,2023-06-04 11:06:47.104488408+00:00,Socks,Clothing,55,XL,Charcoal,Fall,2-Day Shipping,No,No,Cash
 34b01beb-7b51-4060-9c34-5fcd9d88c533,2023-07-12 01:16:40.653274813+00:00,Sandals,Footwear,28,M,Yellow,Spring,2-Day Shipping,No,No,Debit Card
@@ -3583,7 +3583,7 @@ ff770877-b9e0-4a05-8e6f-f29d5fa1b8e9,2023-05-29 22:34:13.366842744+00:00,Belt,Ac
 aab4ad29-33ba-4bc6-9127-a9c47d4af573,2023-10-04 17:46:12.264757451+00:00,Dress,Clothing,95,M,Orange,Fall,Next Day Air,No,No,Credit Card
 8d0567cf-57e2-4eae-8361-e5958fe0b461,2023-12-12 18:27:16.026196784+00:00,Shorts,Clothing,41,S,Beige,Summer,2-Day Shipping,No,No,PayPal
 ac400a0d-27ff-4042-8881-ae9b1d51172e,2023-03-14 02:00:31.610210006+00:00,Blouse,Clothing,77,L,Brown,Summer,Store Pickup,No,No,Credit Card
-b48bfee1-197c-4f0b-be46-2091510e14ff,2023-02-24 12:22:05.101382169+00:00,Sneakers,Footwear,52,L,Indigo,Fall,Express,No,No,Debit Card
+b48bfee1-197c-4f0b-be46-2091510e14ff,2024-02-19 12:22:05.101382169+00:00,Sneakers,Footwear,52,L,Indigo,Fall,Express,No,No,Debit Card
 5ef1daed-a6b2-4c23-8630-b557e39c843b,2023-01-26 08:27:51.842579638+00:00,Gloves,Accessories,41,XL,Gray,Winter,Standard,No,No,Venmo
 4b4de28f-1291-4e15-911e-e83548f46aca,2023-05-20 12:15:51.064537770+00:00,Hoodie,Clothing,28,M,Yellow,Winter,Store Pickup,No,No,PayPal
 e0b10d8b-74fb-47af-b281-29df4f367b48,2023-10-19 09:24:01.110369302+00:00,Sweater,Clothing,90,S,Violet,Summer,Standard,No,No,Debit Card
@@ -3645,7 +3645,7 @@ ab53fe1a-cc68-4bab-8ab1-7e640400cdfc,2023-04-22 12:31:30.465780680+00:00,Dress,C
 fb5ce3b3-9e37-4836-9a6f-cf42916c1778,2023-08-06 22:15:11.084145854+00:00,Scarf,Accessories,96,XL,Magenta,Fall,Standard,No,No,Debit Card
 a4986e73-edcc-43af-800a-93ed5dc80de9,2023-04-10 19:32:35.884939413+00:00,Blouse,Clothing,32,M,Violet,Winter,Next Day Air,No,No,Venmo
 76eb3ba6-c59b-461c-b831-71c5d7c6f937,2023-11-21 01:50:31.507327500+00:00,Backpack,Accessories,90,L,Silver,Summer,Free Shipping,No,No,Credit Card
-5dd414f5-c933-4dee-ad14-244bd54b7560,2023-02-20 18:13:36.465337453+00:00,Jewelry,Accessories,68,M,Maroon,Spring,2-Day Shipping,No,No,Debit Card
+5dd414f5-c933-4dee-ad14-244bd54b7560,2024-02-19 18:13:36.465337453+00:00,Jewelry,Accessories,68,M,Maroon,Spring,2-Day Shipping,No,No,Debit Card
 0f4f09e4-9e3e-471d-b4b5-f43cb71183c0,2023-03-03 15:34:54.200892212+00:00,Shorts,Clothing,45,M,Gray,Winter,Store Pickup,No,No,Bank Transfer
 d63dbaa1-9fd0-4a41-9f7a-3ececf249786,2023-08-06 12:23:41.676863175+00:00,Skirt,Clothing,67,M,White,Winter,Free Shipping,No,No,Cash
 c1788acf-7af9-4174-84e5-7e327da1c20f,2023-10-18 22:40:27.184540273+00:00,Skirt,Clothing,57,M,Brown,Fall,Standard,No,No,Credit Card
@@ -3729,7 +3729,7 @@ a1b5b3fa-ef99-4c2d-b492-498ca0b46d41,2023-04-07 11:59:20.182662525+00:00,Dress,C
 3ff1eb8e-9190-4d4b-a354-054f0af9922b,2023-03-23 21:32:34.101026613+00:00,Socks,Clothing,83,M,Gold,Summer,Next Day Air,No,No,Debit Card
 94fd5f36-1a31-47eb-ba8d-5b41b785b9c9,2023-01-02 12:09:04.073302456+00:00,Jacket,Outerwear,31,L,Red,Winter,Standard,No,No,Debit Card
 87a849b1-f7a8-42c3-90d9-30630dfb0f21,2023-01-08 16:07:12.244905003+00:00,Boots,Footwear,82,M,Teal,Spring,2-Day Shipping,No,No,Cash
-6af8d76e-28a5-4fe0-8bb6-fea86cdfee49,2023-02-28 05:52:28.932594999+00:00,Shirt,Clothing,79,M,Teal,Summer,2-Day Shipping,No,No,Credit Card
+6af8d76e-28a5-4fe0-8bb6-fea86cdfee49,2024-02-19 05:52:28.932594999+00:00,Shirt,Clothing,79,M,Teal,Summer,2-Day Shipping,No,No,Credit Card
 3f943155-d8ea-40de-9fe5-d3605221dc10,2023-03-11 12:32:06.852102898+00:00,Hat,Accessories,62,M,Lavender,Spring,2-Day Shipping,No,No,PayPal
 ad4a8ceb-0b55-4015-b300-f2ceb65ec5b9,2023-11-01 13:50:18.477042922+00:00,Shoes,Footwear,92,L,Pink,Spring,Free Shipping,No,No,PayPal
 d25133ee-dcd7-4af5-b28a-ec310ed56f7b,2023-05-26 03:40:56.900713793+00:00,Socks,Clothing,58,M,Maroon,Fall,Next Day Air,No,No,Debit Card
@@ -3818,7 +3818,7 @@ bfee9ef1-188e-4408-ac58-b453645e8d0e,2023-11-20 01:18:13.987243750+00:00,Hat,Acc
 e0a1734d-620c-4dcd-ba26-21cdef95e4af,2023-07-25 11:38:26.206748819+00:00,Coat,Outerwear,86,S,Silver,Summer,Store Pickup,No,No,Credit Card
 146d64ce-c88d-4550-a40b-8a502fee46a3,2023-02-03 22:54:08.644317413+00:00,Scarf,Accessories,91,M,Magenta,Fall,Express,No,No,PayPal
 80f2ef68-5211-4ac5-951d-1f76424c05f0,2023-09-25 10:52:19.388058043+00:00,Sneakers,Footwear,41,XL,Indigo,Winter,Free Shipping,No,No,Cash
-b758c576-a6ba-459c-8786-6dc5550290a0,2023-02-22 18:12:59.460611813+00:00,Pants,Clothing,99,S,Gold,Spring,Express,No,No,Cash
+b758c576-a6ba-459c-8786-6dc5550290a0,2024-02-19 18:12:59.460611813+00:00,Pants,Clothing,99,S,Gold,Spring,Express,No,No,Cash
 26f08f36-c20b-4abb-98c2-41b0f39c01c0,2023-05-07 08:08:44.346603948+00:00,Belt,Accessories,65,M,Purple,Winter,Standard,No,No,Debit Card
 fb66920a-205f-48fd-ab4d-3f500f5f2d65,2023-10-18 14:09:35.451770921+00:00,Sneakers,Footwear,48,M,Gold,Summer,Free Shipping,No,No,Credit Card
 34a918cd-2008-497c-9e0b-0136f3877ed3,2023-06-08 17:57:31.239581539+00:00,Hat,Accessories,41,S,Gold,Spring,Free Shipping,No,No,PayPal
@@ -3839,7 +3839,7 @@ f367003e-911a-494c-8e15-c7e57ba53fae,2023-03-27 01:08:03.314245888+00:00,Sandals
 185641b1-732e-4734-a614-4845e3fc18b0,2023-09-03 06:27:42.726047396+00:00,Hoodie,Clothing,100,M,Green,Spring,Free Shipping,No,No,Bank Transfer
 650a3bc9-c503-4f4e-aba2-fe3bc9d862c4,2023-11-17 19:18:41.826564392+00:00,Dress,Clothing,25,L,Green,Summer,Express,No,No,Venmo
 d55d107e-b7ef-4ab9-8eab-771bc9017532,2023-10-04 02:39:24.173786519+00:00,Sandals,Footwear,29,M,Peach,Spring,Free Shipping,No,No,Venmo
-1d11e243-7168-4b72-adbf-20dd34a34086,2023-02-22 02:11:43.790829491+00:00,Jeans,Clothing,42,M,Turquoise,Spring,Express,No,No,Venmo
+1d11e243-7168-4b72-adbf-20dd34a34086,2024-02-19 02:11:43.790829491+00:00,Jeans,Clothing,42,M,Turquoise,Spring,Express,No,No,Venmo
 f58aef22-02f1-45cd-822c-8beaf1a73b0f,2023-03-19 08:26:29.329668953+00:00,Jeans,Clothing,57,L,Pink,Fall,2-Day Shipping,No,No,Bank Transfer
 945cc880-e456-4a21-ac6f-032dd42ec392,2023-02-14 14:00:19.027346513+00:00,Jacket,Outerwear,84,L,Lavender,Winter,Next Day Air,No,No,Debit Card
 9ec24cc6-9316-4131-956d-5e85241d65d7,2023-12-26 23:08:06.073847146+00:00,Hat,Accessories,71,L,Silver,Winter,Free Shipping,No,No,Venmo
@@ -3860,7 +3860,7 @@ c8867d67-c0b4-410d-9922-d94a84f4dc84,2023-09-20 15:44:52.515903612+00:00,T-shirt
 2474c220-f2a3-4a8f-8c9c-67f216d8776d,2023-05-22 20:01:26.149940945+00:00,T-shirt,Clothing,77,M,Olive,Winter,Store Pickup,No,No,Credit Card
 0297c9f4-aebd-4af8-b0a8-ec1988e3ac8f,2023-07-27 17:23:24.364121467+00:00,Shorts,Clothing,88,S,Blue,Fall,2-Day Shipping,No,No,Bank Transfer
 39442419-55a9-4307-89bd-ebe19bacd5c9,2023-05-01 17:57:59.930480531+00:00,Sunglasses,Accessories,64,M,Turquoise,Summer,Next Day Air,No,No,Cash
-936c4cbc-9690-4b0c-985f-1d8cddee68b9,2023-02-21 18:46:03.452477001+00:00,Jacket,Outerwear,57,M,Yellow,Spring,Standard,No,No,Credit Card
+936c4cbc-9690-4b0c-985f-1d8cddee68b9,2024-02-19 18:46:03.452477001+00:00,Jacket,Outerwear,57,M,Yellow,Spring,Standard,No,No,Credit Card
 86ce2c5b-96bb-4a61-b33f-fd1a17089e50,2023-07-12 21:48:42.674092473+00:00,Shirt,Clothing,49,L,Turquoise,Winter,Next Day Air,No,No,Venmo
 0efa480c-3100-4c22-823d-49235ea3e5fb,2023-01-20 00:05:15.489049478+00:00,Scarf,Accessories,35,M,Orange,Summer,Free Shipping,No,No,Cash
 2b303f77-6665-4ba4-8f7b-e2867cd8b18f,2023-02-16 01:04:23.611592529+00:00,T-shirt,Clothing,99,S,Blue,Winter,Express,No,No,Debit Card

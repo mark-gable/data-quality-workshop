@@ -1,4 +1,4 @@
-SELECT
+SELECT DISTINCT
     purchase_id,
     purchase_date,
     item_purchased,

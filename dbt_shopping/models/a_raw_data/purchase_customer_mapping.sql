@@ -1,4 +1,4 @@
-SELECT
+SELECT DISTINCT
     column0 AS purchase_id,
     column1 AS customer_id
 FROM
