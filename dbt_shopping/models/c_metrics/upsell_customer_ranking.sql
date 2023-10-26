@@ -18,7 +18,9 @@ shopping_thirty_days AS (
     FROM
         {{ref('shopping_combined')}}
     WHERE
-        purchase_date >= (SELECT MAX(purchase_date) - INTERVAL 30 DAY FROM {{ref('shopping_combined')}})
+        -- workshop assumes "today's" date is `2023-12-31` (December 31st, 2023).
+        -- typically this wouldn't be hard coded.
+        purchase_date >= (SELECT make_date(2023, 12, 31) - INTERVAL 30 DAY FROM {{ref('shopping_combined')}})
 ),
 
 shopping_metrics_thirty_days AS (
